@@ -1,0 +1,9 @@
+Role,Demand_Index,Base_Salary_USD,Num_Required_Skills,Required_Skills_List,Req_Python,Req_SQL,Req_ML,Req_Deep_Learning,Req_Data_Viz,Req_Excel,Req_Power_BI,Req_Tableau,Req_NLP,Req_Cloud_AWS,Req_Cloud_Azure,Req_Docker,Req_Spark,Req_TensorFlow,Req_Statistics,Req_R,Req_Java,Req_JavaScript,Req_Communication,Req_Project_Management
+Data Analyst,0.78,40000,5,"SQL, Excel, Data_Viz, Statistics, Power_BI",0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Scientist,0.91,60000,5,"Python, SQL, ML, Statistics, Data_Viz",1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ML Engineer,0.95,75000,5,"Python, ML, Deep_Learning, TensorFlow, Docker",1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+BI Developer,0.65,45000,5,"SQL, Power_BI, Tableau, Excel, Data_Viz",0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,0.88,65000,5,"Python, SQL, Spark, Cloud_AWS, Docker",1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+Business Analyst,0.72,42000,5,"Excel, Communication, Project_Management, SQL, Power_BI",0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+AI Researcher,0.8,85000,5,"Python, ML, Deep_Learning, NLP, Statistics",1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Software Engineer,0.85,58000,5,"Java, JavaScript, Docker, Python, Cloud_AWS",1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0

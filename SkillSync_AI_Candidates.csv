@@ -1,0 +1,1001 @@
+Candidate_ID,Age,Education_Level,Experience_Years,Career_Level,Target_Role,Num_Skills,Skill_Match_Ratio,Expected_Salary_USD,Employability_Status,Recommended_Skills,Python,SQL,ML,Deep_Learning,Data_Viz,Excel,Power_BI,Tableau,NLP,Cloud_AWS,Cloud_Azure,Docker,Spark,TensorFlow,Statistics,R,Java,JavaScript,Communication,Project_Management
+CAND0001,36,Bachelor,12.8,Advanced,Data Scientist,12,1.0,125900,High,None – Profile Complete,1,1,1,0,1,0,1,0,1,1,0,1,1,0,1,1,0,0,1,0
+CAND0002,30,Associate,8.4,Advanced,AI Researcher,6,0.4,116300,Medium,"ML, NLP, Statistics",1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAND0003,34,High School,14.0,Advanced,BI Developer,4,0.6,60400,Medium,"SQL, Power_BI",0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAND0004,26,Bachelor,3.8,Advanced,BI Developer,4,0.8,55000,Medium,SQL,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0005,24,Master,1.8,Intermediate,AI Researcher,7,0.8,129900,High,NLP,1,0,1,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0
+CAND0006,26,Bachelor,3.7,Advanced,Business Analyst,8,1.0,67400,High,None – Profile Complete,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1
+CAND0007,24,Master,1.9,Intermediate,Data Analyst,8,0.8,68300,Medium,Statistics,1,1,0,0,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0
+CAND0008,27,Associate,3.1,Advanced,BI Developer,9,0.8,75700,Medium,Data_Viz,0,1,0,0,0,1,1,1,1,0,0,1,0,1,1,1,0,0,0,0
+CAND0009,24,Bachelor,3.7,Advanced,ML Engineer,6,0.6,125200,Medium,"TensorFlow, Python",0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0
+CAND0010,23,Associate,1.3,Intermediate,ML Engineer,5,0.6,107200,Low,"Deep_Learning, Docker",1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0
+CAND0011,24,Bachelor,2.1,Intermediate,Data Engineer,5,0.4,99000,Low,"Docker, Python, SQL",0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,0
+CAND0012,27,Bachelor,7.3,Advanced,ML Engineer,8,0.8,132600,High,ML,1,1,0,1,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,0
+CAND0013,29,High School,6.8,Advanced,Data Scientist,4,0.2,94600,Low,"ML, SQL, Statistics",1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAND0014,28,Master,5.1,Advanced,Data Scientist,7,0.8,116700,High,Python,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+CAND0015,26,Bachelor,2.4,Intermediate,Data Engineer,9,1.0,113700,High,None – Profile Complete,1,1,0,0,1,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0
+CAND0016,28,Associate,5.4,Advanced,Business Analyst,3,0.2,57900,Low,"Excel, Communication, SQL",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+CAND0017,23,Master,3.9,Advanced,Data Analyst,7,0.8,69500,High,Excel,0,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0
+CAND0018,26,Bachelor,3.6,Advanced,ML Engineer,6,1.0,143300,High,None – Profile Complete,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+CAND0019,28,Bachelor,6.4,Advanced,Business Analyst,7,0.8,78300,High,Project_Management,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0
+CAND0020,26,Master,2.0,Intermediate,Business Analyst,7,0.6,68000,Medium,"Excel, Project_Management",0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0
+CAND0021,33,Master,10.3,Advanced,Data Scientist,8,0.8,105700,High,SQL,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1
+CAND0022,30,Master,9.1,Advanced,Software Engineer,7,1.0,103100,High,None – Profile Complete,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0
+CAND0023,24,Bachelor,1.8,Intermediate,Data Scientist,8,0.8,92300,Medium,Python,0,1,1,0,1,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+CAND0024,29,Bachelor,5.7,Advanced,Software Engineer,7,1.0,96800,High,None – Profile Complete,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1,0
+CAND0025,24,PhD,2.8,Intermediate,Data Analyst,7,0.8,74000,High,Excel,0,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0
+CAND0026,27,Associate,1.7,Intermediate,BI Developer,5,0.6,58800,Medium,"SQL, Data_Viz",0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0
+CAND0027,28,Bachelor,3.5,Advanced,Data Scientist,5,0.6,90700,Medium,"SQL, Statistics",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+CAND0028,26,Bachelor,4.8,Advanced,Business Analyst,6,0.6,68700,Medium,"Excel, Project_Management",1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+CAND0029,28,Associate,7.6,Advanced,Data Engineer,4,0.2,79800,Low,"Spark, Cloud_AWS, Docker",0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+CAND0030,24,Master,1.3,Intermediate,Software Engineer,6,0.8,93500,Medium,Docker,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0
+CAND0031,24,Master,2.0,Intermediate,ML Engineer,7,0.8,143600,Medium,Docker,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1
+CAND0032,34,PhD,10.0,Advanced,Data Analyst,9,0.8,96000,High,Excel,0,1,0,1,1,0,1,0,0,1,0,1,1,0,1,0,1,0,0,0
+CAND0033,25,Master,4.4,Advanced,BI Developer,8,1.0,76400,High,None – Profile Complete,0,1,0,0,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0
+CAND0034,26,Bachelor,2.5,Intermediate,Data Analyst,2,0.0,54400,Low,"SQL, Excel, Data_Viz",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+CAND0035,30,Master,7.3,Advanced,Data Engineer,6,1.0,109100,High,None – Profile Complete,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0
+CAND0036,20,High School,0.7,Beginner,ML Engineer,1,0.2,96200,Low,"ML, TensorFlow, Docker",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0037,24,Master,2.2,Intermediate,Business Analyst,8,0.6,71100,Medium,"Excel, SQL",1,0,0,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,1
+CAND0038,31,Master,8.8,Advanced,BI Developer,7,0.6,79600,High,"Tableau, Excel",0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+CAND0039,22,Associate,2.2,Intermediate,ML Engineer,2,0.4,103100,Low,"ML, TensorFlow, Python",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0040,29,Master,5.2,Advanced,BI Developer,5,0.6,78200,High,"Power_BI, Data_Viz",0,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAND0041,27,Bachelor,3.5,Advanced,ML Engineer,6,0.8,126700,Medium,TensorFlow,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+CAND0042,39,PhD,13.9,Advanced,BI Developer,11,1.0,99400,High,None – Profile Complete,0,1,1,0,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,0
+CAND0043,32,High School,10.5,Advanced,BI Developer,4,0.6,57100,Medium,"Power_BI, Excel",0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+CAND0044,24,Master,2.7,Intermediate,Data Scientist,5,0.8,97700,Medium,Statistics,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0045,30,PhD,6.4,Advanced,Data Engineer,7,1.0,113600,High,None – Profile Complete,1,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0
+CAND0046,28,Master,6.6,Advanced,ML Engineer,6,0.6,127800,High,"Deep_Learning, TensorFlow",1,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0
+CAND0047,25,Bachelor,2.2,Intermediate,Data Engineer,7,0.4,107400,Low,"Spark, Docker, SQL",1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1
+CAND0048,35,Master,5.4,Advanced,ML Engineer,5,0.6,123400,Medium,"ML, Docker",1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+CAND0049,25,Master,2.8,Intermediate,Business Analyst,7,0.8,75400,Medium,Project_Management,1,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0
+CAND0050,27,Bachelor,3.9,Advanced,Data Analyst,7,0.4,68800,Low,"SQL, Data_Viz, Power_BI",0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,1,1,0,0,0
+CAND0051,20,High School,0.2,Beginner,Software Engineer,5,0.2,79100,Low,"Cloud_AWS, Docker, Python",0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0
+CAND0052,24,Master,2.2,Intermediate,Business Analyst,4,0.8,57300,Medium,Excel,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAND0053,28,Associate,3.4,Advanced,ML Engineer,5,0.4,124200,Low,"TensorFlow, Docker, Python",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+CAND0054,26,Master,2.5,Intermediate,Data Scientist,7,1.0,93400,High,None – Profile Complete,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+CAND0055,34,High School,13.1,Advanced,Data Engineer,9,0.8,130900,High,Python,0,1,1,1,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0
+CAND0056,24,Bachelor,2.0,Intermediate,Data Analyst,8,0.8,65400,Medium,Power_BI,0,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0,1
+CAND0057,29,Master,2.5,Intermediate,Data Engineer,6,0.8,102900,Medium,Docker,1,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+CAND0058,28,Bachelor,6.5,Advanced,AI Researcher,7,0.8,126500,High,ML,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0
+CAND0059,20,Bachelor,1.2,Intermediate,Business Analyst,7,0.6,68200,Medium,"Communication, SQL",0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1
+CAND0060,25,Bachelor,4.6,Advanced,Business Analyst,6,0.6,68600,Medium,"Communication, Project_Management",1,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+CAND0061,29,Bachelor,4.7,Advanced,Software Engineer,5,0.4,94700,Medium,"Cloud_AWS, Docker, Python",0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0
+CAND0062,27,Associate,4.5,Advanced,Business Analyst,6,0.8,63200,Medium,Project_Management,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+CAND0063,32,PhD,5.0,Advanced,Data Scientist,9,1.0,108100,High,None – Profile Complete,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1
+CAND0064,25,PhD,3.6,Advanced,Data Scientist,7,1.0,113600,High,None – Profile Complete,1,1,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+CAND0065,23,Associate,1.9,Intermediate,Software Engineer,3,0.6,77300,Medium,"Cloud_AWS, Java",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+CAND0066,32,Master,9.6,Advanced,Data Scientist,9,1.0,125600,High,None – Profile Complete,1,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0
+CAND0067,25,Bachelor,1.6,Intermediate,Data Scientist,7,0.4,98100,Low,"ML, Python, SQL",0,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0
+CAND0068,29,Bachelor,6.8,Advanced,Data Analyst,6,0.8,72500,High,Data_Viz,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+CAND0069,28,Master,3.4,Advanced,Data Analyst,6,0.8,67800,High,Power_BI,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+CAND0070,32,Bachelor,9.8,Advanced,ML Engineer,8,0.4,116300,Medium,"ML, TensorFlow, Python",0,1,0,1,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,1
+CAND0071,28,PhD,5.0,Advanced,Business Analyst,9,1.0,80600,High,None – Profile Complete,0,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0,1,1
+CAND0072,28,Master,6.8,Advanced,AI Researcher,7,0.8,141800,High,NLP,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1
+CAND0073,25,Associate,3.1,Advanced,BI Developer,3,0.4,52100,Low,"Power_BI, Excel, Data_Viz",0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0074,24,Bachelor,1.3,Intermediate,Data Engineer,4,0.2,80600,Low,"Spark, Cloud_AWS, Docker",0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+CAND0075,25,Master,1.6,Intermediate,ML Engineer,8,0.8,141900,Medium,Python,0,0,1,1,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1
+CAND0076,40,Associate,17.7,Advanced,Business Analyst,8,0.6,73900,Medium,"Communication, Project_Management",0,1,0,0,0,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0
+CAND0077,35,Master,13.0,Advanced,Data Scientist,10,1.0,123200,High,None – Profile Complete,1,1,1,1,1,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0
+CAND0078,35,Bachelor,10.3,Advanced,BI Developer,7,0.8,72000,High,Power_BI,0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+CAND0079,23,High School,2.5,Intermediate,Business Analyst,3,0.4,53000,Low,"Excel, Communication, Project_Management",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAND0080,30,PhD,3.5,Advanced,Software Engineer,7,0.8,114300,High,Java,1,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1,0,0
+CAND0081,37,Bachelor,14.0,Advanced,AI Researcher,9,1.0,152100,High,None – Profile Complete,1,0,1,1,0,0,0,0,1,0,1,1,0,0,1,0,1,0,0,1
+CAND0082,28,PhD,4.6,Advanced,Data Analyst,7,1.0,78100,High,None – Profile Complete,1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAND0083,29,Bachelor,4.8,Advanced,AI Researcher,6,0.4,112500,Medium,"Deep_Learning, ML, NLP",1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0
+CAND0084,23,Bachelor,1.6,Intermediate,Data Scientist,5,1.0,84300,Medium,None – Profile Complete,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0085,26,Master,1.5,Intermediate,Data Engineer,5,0.6,102600,Medium,"Spark, Cloud_AWS",1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+CAND0086,25,Master,1.9,Intermediate,ML Engineer,6,0.8,122200,High,ML,1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0
+CAND0087,36,PhD,9.6,Advanced,Software Engineer,7,1.0,107800,High,None – Profile Complete,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0
+CAND0088,36,PhD,9.0,Advanced,ML Engineer,7,0.6,136500,High,"ML, TensorFlow",1,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1
+CAND0089,25,Bachelor,2.1,Intermediate,Software Engineer,4,0.6,76300,Medium,"Cloud_AWS, Docker",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+CAND0090,25,Bachelor,1.4,Intermediate,BI Developer,7,1.0,65800,High,None – Profile Complete,1,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAND0091,25,Bachelor,5.3,Advanced,Business Analyst,8,1.0,84200,High,None – Profile Complete,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+CAND0092,28,Bachelor,6.7,Advanced,Data Analyst,7,0.6,81400,Medium,"SQL, Excel",0,0,1,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1
+CAND0093,26,Bachelor,4.1,Advanced,Data Engineer,5,0.2,111800,Low,"Spark, Cloud_AWS, Python",0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+CAND0094,28,Master,2.2,Intermediate,AI Researcher,8,1.0,153000,Medium,None – Profile Complete,1,0,1,1,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0
+CAND0095,25,Bachelor,3.1,Advanced,Data Engineer,5,0.6,106400,Medium,"Spark, SQL",1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+CAND0096,27,Bachelor,4.7,Advanced,ML Engineer,4,0.6,113600,Medium,"Deep_Learning, ML",1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+CAND0097,36,Bachelor,16.5,Advanced,Business Analyst,6,1.0,61000,High,None – Profile Complete,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+CAND0098,24,Associate,1.0,Intermediate,Data Scientist,3,0.4,79700,Low,"Python, SQL, Statistics",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAND0099,25,Bachelor,2.5,Intermediate,Data Scientist,1,0.2,78400,Low,"ML, Python, SQL",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0100,24,Bachelor,1.0,Intermediate,Business Analyst,4,0.4,69600,Low,"Excel, Communication, Power_BI",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+CAND0101,24,Bachelor,1.2,Intermediate,ML Engineer,8,0.6,136800,Medium,"Docker, Python",0,0,1,1,0,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0
+CAND0102,26,Bachelor,5.5,Advanced,Data Analyst,9,0.6,62200,Medium,"SQL, Statistics",0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,1,1,1
+CAND0103,35,Master,11.3,Advanced,Data Engineer,8,0.6,109500,High,"Cloud_AWS, Docker",1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0
+CAND0104,25,Bachelor,1.7,Intermediate,AI Researcher,2,0.2,99000,Low,"Deep_Learning, ML, NLP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+CAND0105,29,Master,3.0,Intermediate,ML Engineer,5,0.6,127400,Medium,"TensorFlow, Python",0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+CAND0106,27,Bachelor,3.8,Advanced,AI Researcher,3,0.4,109000,Low,"Deep_Learning, ML, Python",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+CAND0107,23,Bachelor,1.9,Intermediate,Business Analyst,7,0.8,67100,Medium,Project_Management,1,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+CAND0108,29,Associate,9.2,Advanced,BI Developer,8,1.0,75400,High,None – Profile Complete,0,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0
+CAND0109,28,Master,4.0,Advanced,AI Researcher,4,0.4,117800,Medium,"Deep_Learning, NLP, Python",0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+CAND0110,25,Bachelor,1.3,Intermediate,AI Researcher,6,0.4,115800,Low,"Deep_Learning, NLP, Statistics",1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1
+CAND0111,26,Master,4.6,Advanced,AI Researcher,5,0.6,125000,Medium,"ML, Python",0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+CAND0112,24,Bachelor,2.1,Intermediate,AI Researcher,4,0.4,110200,Low,"ML, NLP, Python",0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+CAND0113,39,Bachelor,17.0,Advanced,ML Engineer,8,1.0,154500,High,None – Profile Complete,1,0,1,1,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+CAND0114,29,Bachelor,5.2,Advanced,AI Researcher,7,0.6,135600,Medium,"Python, Statistics",0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0
+CAND0115,24,Bachelor,2.1,Intermediate,Software Engineer,7,0.8,88700,Medium,Docker,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,1,0
+CAND0116,22,Bachelor,1.9,Intermediate,ML Engineer,8,1.0,136000,Medium,None – Profile Complete,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0
+CAND0117,27,Bachelor,4.3,Advanced,Software Engineer,6,0.8,90300,Medium,Docker,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+CAND0118,24,Bachelor,1.4,Intermediate,Data Analyst,5,0.4,72700,Low,"Excel, Data_Viz, Statistics",0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+CAND0119,29,Bachelor,5.4,Advanced,AI Researcher,7,0.8,140800,Medium,Statistics,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+CAND0120,33,Bachelor,11.4,Advanced,ML Engineer,7,0.8,133200,High,TensorFlow,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0121,27,PhD,2.4,Intermediate,Data Analyst,5,0.6,69700,Medium,"SQL, Power_BI",0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+CAND0122,30,Bachelor,7.1,Advanced,Data Analyst,9,0.6,90900,Medium,"SQL, Data_Viz",1,0,0,1,0,1,1,0,1,0,1,0,1,0,1,0,0,0,0,1
+CAND0123,30,Bachelor,7.5,Advanced,AI Researcher,10,0.6,143200,High,"ML, Statistics",1,0,0,1,1,1,1,1,1,0,0,1,0,1,0,0,0,0,1,0
+CAND0124,30,Bachelor,7.6,Advanced,Data Scientist,8,0.6,96800,Medium,"SQL, Data_Viz",1,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,1,1
+CAND0125,25,Bachelor,2.2,Intermediate,Data Scientist,6,0.8,83200,Medium,ML,1,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+CAND0126,26,Bachelor,3.9,Advanced,BI Developer,6,0.4,66200,Medium,"Power_BI, Tableau, Excel",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1
+CAND0127,31,Associate,11.6,Advanced,Data Analyst,7,0.8,71300,High,Data_Viz,0,1,0,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0
+CAND0128,27,Master,4.2,Advanced,Data Engineer,7,0.6,113400,Medium,"Cloud_AWS, SQL",1,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1
+CAND0129,26,Bachelor,2.3,Intermediate,ML Engineer,5,0.6,115000,Medium,"ML, Python",0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+CAND0130,32,Master,9.6,Advanced,Data Scientist,8,1.0,101100,High,None – Profile Complete,1,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0
+CAND0131,29,Associate,7.9,Advanced,Data Analyst,5,0.6,59100,Medium,"SQL, Statistics",1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+CAND0132,29,Bachelor,5.9,Advanced,BI Developer,8,0.6,79300,Medium,"SQL, Excel",1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+CAND0133,27,Master,4.3,Advanced,BI Developer,5,0.8,65000,Medium,Data_Viz,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+CAND0134,37,Bachelor,12.6,Advanced,Data Engineer,10,0.8,126500,High,SQL,1,0,1,0,1,1,0,0,1,1,0,1,1,0,1,0,0,0,0,1
+CAND0135,27,Bachelor,4.6,Advanced,Business Analyst,10,0.6,77600,Medium,"SQL, Power_BI",1,0,0,0,1,1,0,1,0,0,0,0,1,1,0,1,1,0,1,1
+CAND0136,26,Master,1.9,Intermediate,AI Researcher,8,0.8,140500,High,NLP,1,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0
+CAND0137,27,Bachelor,6.1,Advanced,Data Analyst,6,1.0,64000,High,None – Profile Complete,0,1,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+CAND0138,28,Master,3.2,Advanced,Data Analyst,6,0.4,78400,Medium,"SQL, Excel, Statistics",0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1
+CAND0139,23,Master,1.2,Intermediate,BI Developer,4,0.2,70200,Low,"SQL, Power_BI, Tableau",0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+CAND0140,25,Bachelor,2.5,Intermediate,BI Developer,8,0.8,65800,Medium,SQL,0,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0
+CAND0141,25,Bachelor,3.2,Advanced,ML Engineer,4,0.0,104400,Low,"Deep_Learning, ML, TensorFlow",0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0
+CAND0142,28,PhD,3.4,Advanced,BI Developer,6,0.8,74700,High,SQL,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0
+CAND0143,24,High School,4.4,Advanced,Data Scientist,6,0.8,92600,Medium,SQL,1,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+CAND0144,27,Associate,5.9,Advanced,AI Researcher,6,0.2,118800,Low,"Deep_Learning, ML, NLP",1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0
+CAND0145,24,Bachelor,1.6,Intermediate,Software Engineer,8,0.8,83600,Medium,Python,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,1,1
+CAND0146,27,Master,3.6,Advanced,Data Scientist,10,1.0,117600,High,None – Profile Complete,1,1,1,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0
+CAND0147,26,Bachelor,4.1,Advanced,Software Engineer,5,0.6,92100,Medium,"Cloud_AWS, Java",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+CAND0148,26,Master,3.3,Advanced,AI Researcher,5,0.4,127200,Medium,"Deep_Learning, NLP, Python",0,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0
+CAND0149,23,High School,1.0,Intermediate,Data Engineer,3,0.4,88300,Low,"Spark, Docker, SQL",1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAND0150,27,Master,2.3,Intermediate,Data Scientist,3,0.2,88600,Low,"ML, Python, SQL",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+CAND0151,32,Master,8.9,Advanced,Business Analyst,7,0.6,69800,High,"Project_Management, Power_BI",0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+CAND0152,33,Bachelor,9.9,Advanced,Data Analyst,6,0.6,66700,Medium,"Excel, Power_BI",0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
+CAND0153,31,Bachelor,9.7,Advanced,Data Analyst,11,0.8,79000,High,Statistics,0,1,0,0,1,1,1,0,0,0,1,1,1,0,0,1,1,1,1,0
+CAND0154,24,Master,2.4,Intermediate,Data Analyst,3,0.4,55700,Medium,"SQL, Statistics, Power_BI",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+CAND0155,26,Bachelor,3.1,Advanced,Data Scientist,3,0.4,80600,Low,"ML, SQL, Statistics",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAND0156,28,Master,3.9,Advanced,AI Researcher,6,0.8,139100,High,ML,1,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0
+CAND0157,24,Bachelor,0.9,Beginner,ML Engineer,3,0.2,92300,Low,"Deep_Learning, ML, TensorFlow",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+CAND0158,32,Bachelor,8.0,Advanced,Data Scientist,8,0.8,102200,High,Statistics,1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+CAND0159,25,Bachelor,2.1,Intermediate,Data Analyst,8,0.6,74700,Medium,"Data_Viz, Power_BI",1,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0,0
+CAND0160,29,Master,8.3,Advanced,Data Analyst,6,0.8,62400,High,Statistics,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+CAND0161,26,Master,5.6,Advanced,AI Researcher,9,0.6,121500,Medium,"ML, NLP",1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0
+CAND0162,29,Bachelor,6.2,Advanced,Data Scientist,11,1.0,107900,High,None – Profile Complete,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0
+CAND0163,24,Bachelor,2.8,Intermediate,BI Developer,8,0.6,81800,Medium,"Excel, Data_Viz",0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0
+CAND0164,27,Bachelor,3.4,Advanced,Data Engineer,5,0.8,104800,Medium,Cloud_AWS,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+CAND0165,25,Master,2.2,Intermediate,Business Analyst,7,0.6,79300,Medium,"Excel, Power_BI",1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1
+CAND0166,29,Bachelor,6.7,Advanced,Business Analyst,5,0.6,66500,High,"Communication, SQL",0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+CAND0167,28,Master,3.5,Advanced,Data Scientist,6,0.8,99100,High,SQL,1,0,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+CAND0168,28,Bachelor,4.4,Advanced,AI Researcher,7,0.8,133300,Medium,Deep_Learning,1,0,1,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0,0
+CAND0169,27,PhD,2.2,Intermediate,Software Engineer,9,0.8,130300,High,Python,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,1
+CAND0170,28,Master,6.5,Advanced,ML Engineer,10,1.0,158900,High,None – Profile Complete,1,0,1,1,0,1,1,0,1,0,1,1,0,1,0,0,1,0,0,0
+CAND0171,32,Master,8.8,Advanced,ML Engineer,6,0.6,144000,High,"Docker, Python",0,1,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+CAND0172,27,Bachelor,4.2,Advanced,BI Developer,2,0.4,56300,Medium,"SQL, Power_BI, Tableau",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0173,40,PhD,15.8,Advanced,ML Engineer,9,1.0,152700,High,None – Profile Complete,1,0,1,1,1,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0
+CAND0174,30,Bachelor,7.9,Advanced,ML Engineer,6,0.8,135000,High,Python,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+CAND0175,24,Bachelor,1.3,Intermediate,AI Researcher,3,0.4,111500,Low,"ML, NLP, Statistics",1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0176,22,Associate,1.9,Intermediate,ML Engineer,6,0.4,108600,Low,"Deep_Learning, ML, Python",0,1,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+CAND0177,28,Bachelor,4.7,Advanced,Business Analyst,2,0.2,60800,Low,"Excel, Communication, Project_Management",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0178,34,PhD,8.0,Advanced,Data Scientist,6,0.8,98600,High,ML,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+CAND0179,27,Bachelor,4.8,Advanced,BI Developer,6,0.8,69100,High,Data_Viz,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+CAND0180,23,Bachelor,1.3,Intermediate,Data Analyst,7,0.8,81500,Medium,Data_Viz,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+CAND0181,24,Bachelor,1.9,Intermediate,Data Scientist,5,0.6,98400,Medium,"Statistics, Data_Viz",1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+CAND0182,34,Bachelor,12.8,Advanced,Business Analyst,12,1.0,95300,High,None – Profile Complete,0,1,0,1,1,1,1,0,1,1,0,0,1,0,0,1,1,0,1,1
+CAND0183,27,PhD,4.1,Advanced,Data Analyst,7,0.8,76700,High,SQL,0,0,0,0,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0
+CAND0184,28,Master,4.1,Advanced,ML Engineer,8,0.8,141600,High,Docker,1,0,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+CAND0185,23,Bachelor,1.6,Intermediate,ML Engineer,4,0.4,112900,Medium,"Deep_Learning, ML, Python",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+CAND0186,25,Master,1.9,Intermediate,Data Engineer,9,0.8,114500,Medium,Cloud_AWS,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0
+CAND0187,29,Bachelor,3.9,Advanced,BI Developer,8,0.8,81000,Medium,Data_Viz,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0
+CAND0188,37,Master,13.7,Advanced,Data Scientist,10,0.8,109800,High,ML,1,1,0,0,1,0,0,0,0,0,1,1,1,0,1,1,0,0,1,1
+CAND0189,28,Master,4.4,Advanced,Business Analyst,11,0.8,90000,Medium,Excel,0,1,0,1,1,0,1,1,0,1,0,1,0,1,0,1,0,0,1,1
+CAND0190,26,Master,3.9,Advanced,Data Engineer,8,0.6,99300,Medium,"Cloud_AWS, Python",0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,1,1
+CAND0191,31,Master,3.9,Advanced,AI Researcher,4,0.6,127000,Medium,"Deep_Learning, Python",0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+CAND0192,30,Master,4.5,Advanced,Software Engineer,8,0.6,92200,Medium,"Python, Java",0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,1,1,1
+CAND0193,30,Master,5.5,Advanced,BI Developer,5,0.8,73200,High,Power_BI,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0194,32,Master,6.8,Advanced,AI Researcher,10,0.8,152900,High,Statistics,1,0,1,1,0,0,1,1,1,0,0,0,0,1,0,1,1,1,0,0
+CAND0195,29,Bachelor,6.2,Advanced,Data Scientist,7,0.6,109400,Medium,"Statistics, Data_Viz",1,1,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+CAND0196,24,High School,1.4,Intermediate,BI Developer,4,0.6,51600,Low,"SQL, Data_Viz",0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0197,27,Master,2.4,Intermediate,BI Developer,5,1.0,63600,High,None – Profile Complete,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0198,28,Master,4.3,Advanced,Software Engineer,4,0.6,86400,Medium,"Cloud_AWS, JavaScript",1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+CAND0199,35,Master,12.0,Advanced,ML Engineer,8,0.8,146400,High,ML,1,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,1,0,0,0
+CAND0200,24,Associate,3.9,Advanced,Data Analyst,4,0.4,60700,Low,"Data_Viz, Statistics, Power_BI",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+CAND0201,28,High School,8.2,Advanced,AI Researcher,6,0.8,133500,High,Python,0,0,1,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0
+CAND0202,27,Master,3.6,Advanced,Business Analyst,6,0.6,62400,Medium,"Communication, Power_BI",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1
+CAND0203,28,Bachelor,7.1,Advanced,Business Analyst,4,0.4,58700,Medium,"Excel, Communication, Project_Management",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+CAND0204,25,Master,2.5,Intermediate,BI Developer,5,0.8,66400,Medium,Tableau,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAND0205,25,Bachelor,4.9,Advanced,Data Scientist,7,1.0,98700,High,None – Profile Complete,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+CAND0206,26,Master,2.2,Intermediate,ML Engineer,10,0.6,134700,Medium,"ML, Docker",1,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,1,0,1,1
+CAND0207,28,Master,3.8,Advanced,Business Analyst,5,0.8,65600,High,Project_Management,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+CAND0208,29,Master,5.1,Advanced,Software Engineer,7,0.6,114100,Medium,"Docker, Java",1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+CAND0209,26,Master,3.8,Advanced,AI Researcher,4,0.4,121700,Medium,"ML, NLP, Statistics",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAND0210,23,Associate,3.9,Advanced,Software Engineer,6,0.4,96700,Low,"Cloud_AWS, Java, JavaScript",1,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+CAND0211,25,Bachelor,3.2,Advanced,Business Analyst,6,0.6,68100,Medium,"Communication, SQL",1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+CAND0212,34,Master,9.1,Advanced,BI Developer,10,0.8,85300,High,Power_BI,0,1,0,0,1,1,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+CAND0213,41,Bachelor,18.1,Advanced,BI Developer,10,1.0,81800,High,None – Profile Complete,1,1,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0
+CAND0214,25,Bachelor,0.8,Beginner,Business Analyst,4,0.8,52700,Medium,Power_BI,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAND0215,22,Associate,2.1,Intermediate,ML Engineer,4,0.6,113500,Medium,"ML, TensorFlow",1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+CAND0216,27,Master,2.1,Intermediate,AI Researcher,9,0.8,149000,Medium,Statistics,1,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0
+CAND0217,32,High School,11.0,Advanced,BI Developer,4,0.2,56400,Medium,"SQL, Power_BI, Tableau",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+CAND0218,32,Master,7.7,Advanced,AI Researcher,9,1.0,154300,High,None – Profile Complete,1,0,1,1,1,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0
+CAND0219,33,Associate,9.4,Advanced,Business Analyst,6,0.8,55600,High,Power_BI,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+CAND0220,28,Bachelor,6.1,Advanced,ML Engineer,6,0.6,135200,Medium,"Docker, Python",0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+CAND0221,26,Master,2.2,Intermediate,Data Scientist,8,1.0,121400,High,None – Profile Complete,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+CAND0222,32,Bachelor,5.9,Advanced,Data Scientist,6,0.6,109100,Medium,"Python, Statistics",0,1,1,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+CAND0223,28,Bachelor,5.4,Advanced,Data Engineer,3,0.6,91800,Medium,"Cloud_AWS, Python",0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+CAND0224,28,Master,3.4,Advanced,AI Researcher,7,1.0,139600,High,None – Profile Complete,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0
+CAND0225,27,PhD,1.8,Intermediate,Data Scientist,9,0.6,117200,Medium,"ML, Data_Viz",1,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,0,1,0
+CAND0226,31,Bachelor,9.1,Advanced,Data Analyst,6,0.8,62600,High,SQL,0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0
+CAND0227,29,Bachelor,4.4,Advanced,Data Scientist,6,0.6,121300,Medium,"Python, Statistics",0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+CAND0228,35,Master,10.8,Advanced,Data Analyst,9,0.8,69200,High,SQL,0,0,0,0,1,1,1,1,0,0,1,0,0,0,1,1,1,1,0,0
+CAND0229,27,PhD,2.4,Intermediate,Business Analyst,7,1.0,66000,High,None – Profile Complete,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1
+CAND0230,26,Bachelor,3.7,Advanced,ML Engineer,3,0.4,118300,Low,"ML, TensorFlow, Python",0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+CAND0231,23,Bachelor,2.8,Intermediate,Business Analyst,6,0.6,73600,Medium,"Excel, SQL",1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+CAND0232,29,PhD,4.0,Advanced,Software Engineer,7,0.8,94400,High,Python,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,1
+CAND0233,28,Bachelor,7.9,Advanced,BI Developer,7,1.0,60700,High,None – Profile Complete,0,1,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0
+CAND0234,25,Bachelor,1.5,Intermediate,Data Scientist,7,0.6,84400,Medium,"ML, Statistics",1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0
+CAND0235,33,Master,7.8,Advanced,Data Scientist,5,0.6,99900,High,"ML, Data_Viz",1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+CAND0236,23,Bachelor,1.0,Intermediate,Data Scientist,3,0.4,84500,Low,"Python, SQL, Statistics",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+CAND0237,22,High School,0.5,Beginner,BI Developer,5,0.4,63300,Low,"Power_BI, Excel, Data_Viz",1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+CAND0238,20,High School,0.6,Beginner,Data Analyst,2,0.4,44000,Low,"Excel, Statistics, Power_BI",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0239,29,Bachelor,3.7,Advanced,Data Engineer,4,0.6,97200,Medium,"Docker, SQL",1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+CAND0240,26,Bachelor,5.3,Advanced,AI Researcher,9,0.8,143400,High,Statistics,1,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0
+CAND0241,27,Master,2.0,Intermediate,Software Engineer,2,0.4,83100,Medium,"Docker, Python, JavaScript",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+CAND0242,28,Bachelor,4.6,Advanced,Business Analyst,8,0.8,74700,High,Communication,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1
+CAND0243,33,High School,10.7,Advanced,Data Engineer,8,0.8,113000,High,Docker,1,1,1,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0
+CAND0244,26,Bachelor,5.0,Advanced,Data Analyst,6,0.4,72200,Medium,"SQL, Excel, Data_Viz",0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0
+CAND0245,26,PhD,1.8,Intermediate,Software Engineer,9,0.8,124600,High,Docker,1,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,1,0
+CAND0246,29,Bachelor,6.2,Advanced,Data Analyst,6,0.6,70000,Medium,"Statistics, Power_BI",1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAND0247,29,Bachelor,5.2,Advanced,Software Engineer,6,0.8,90600,Medium,Docker,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0
+CAND0248,27,Master,1.7,Intermediate,Data Engineer,6,0.8,125500,Medium,Python,0,1,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+CAND0249,27,Bachelor,2.6,Intermediate,AI Researcher,5,0.8,124400,Medium,ML,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+CAND0250,22,Bachelor,2.7,Intermediate,Data Analyst,5,0.6,59400,Medium,"SQL, Data_Viz",1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0251,29,Master,3.7,Advanced,Business Analyst,6,0.6,71200,Medium,"Excel, Communication",0,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1
+CAND0252,26,High School,1.7,Intermediate,AI Researcher,4,0.2,109600,Low,"ML, NLP, Python",0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+CAND0253,30,Master,4.3,Advanced,Software Engineer,7,0.8,103700,High,Python,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0
+CAND0254,27,PhD,1.7,Intermediate,Business Analyst,8,0.6,87500,Medium,"Excel, Power_BI",1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1
+CAND0255,33,Bachelor,11.3,Advanced,Business Analyst,6,1.0,64600,High,None – Profile Complete,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+CAND0256,25,Bachelor,2.3,Intermediate,Data Analyst,8,0.8,79700,Medium,Statistics,0,1,0,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0
+CAND0257,26,Bachelor,4.6,Advanced,Business Analyst,6,0.6,70200,Medium,"Excel, SQL",0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1
+CAND0258,28,Bachelor,5.4,Advanced,BI Developer,4,0.4,72600,Medium,"SQL, Power_BI, Data_Viz",0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0259,23,Master,1.7,Intermediate,Data Scientist,8,1.0,113200,High,None – Profile Complete,1,1,1,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0
+CAND0260,29,Master,4.4,Advanced,Data Analyst,5,0.4,74800,Medium,"Excel, Data_Viz, Statistics",1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+CAND0261,30,PhD,5.3,Advanced,Software Engineer,8,0.6,103400,Medium,"Python, Java",0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,1,1,0
+CAND0262,26,Master,3.3,Advanced,ML Engineer,11,1.0,146900,High,None – Profile Complete,1,0,1,1,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,1
+CAND0263,26,Master,2.5,Intermediate,Software Engineer,6,0.8,88800,Medium,Docker,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0
+CAND0264,28,Master,3.6,Advanced,Software Engineer,7,0.4,107400,Medium,"Docker, Python, Java",0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,0
+CAND0265,32,Master,9.1,Advanced,Data Engineer,6,0.6,103000,High,"Spark, SQL",1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0
+CAND0266,28,Master,4.4,Advanced,Data Analyst,8,0.8,80900,Medium,SQL,0,0,1,0,1,1,1,0,0,0,1,0,0,1,1,0,1,0,0,0
+CAND0267,26,Master,3.9,Advanced,AI Researcher,9,1.0,155700,High,None – Profile Complete,1,0,1,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,0
+CAND0268,43,Master,20.2,Advanced,ML Engineer,8,1.0,148200,High,None – Profile Complete,1,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0
+CAND0269,23,Bachelor,1.1,Intermediate,Data Scientist,6,0.6,98800,Medium,"Python, SQL",0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0270,23,Associate,3.3,Advanced,ML Engineer,8,1.0,143300,Medium,None – Profile Complete,1,0,1,1,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+CAND0271,26,Master,5.4,Advanced,Business Analyst,12,0.8,109300,High,Power_BI,1,1,1,1,0,1,0,1,0,1,0,1,0,1,0,0,1,0,1,1
+CAND0272,29,PhD,5.9,Advanced,Data Analyst,7,0.8,82700,High,Statistics,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0
+CAND0273,24,Bachelor,1.0,Intermediate,Software Engineer,8,0.8,101300,Medium,Docker,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,1,1,0,0
+CAND0274,25,Bachelor,3.9,Advanced,Software Engineer,7,1.0,88800,High,None – Profile Complete,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1
+CAND0275,28,Master,2.9,Intermediate,Business Analyst,5,0.6,74100,Medium,"Communication, SQL",0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+CAND0276,36,PhD,12.1,Advanced,Data Analyst,11,1.0,92800,High,None – Profile Complete,1,1,0,0,1,1,1,0,1,0,1,1,0,0,1,0,1,0,1,0
+CAND0277,27,Bachelor,4.7,Advanced,Data Engineer,7,0.8,106700,Medium,Cloud_AWS,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+CAND0278,29,Master,6.1,Advanced,AI Researcher,5,0.6,131000,Medium,"ML, Python",0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0
+CAND0279,30,Associate,11.5,Advanced,BI Developer,5,0.8,57700,High,Excel,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+CAND0280,24,Master,4.1,Advanced,Data Engineer,8,1.0,116000,High,None – Profile Complete,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0,0
+CAND0281,34,PhD,9.2,Advanced,Business Analyst,6,0.4,82300,High,"Excel, Communication, SQL",0,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1
+CAND0282,31,Master,7.8,Advanced,Software Engineer,11,1.0,122200,High,None – Profile Complete,1,1,0,1,0,1,1,0,1,1,0,1,1,0,0,0,1,1,0,0
+CAND0283,25,Associate,2.5,Intermediate,Data Scientist,6,0.8,85000,Medium,Python,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+CAND0284,32,Master,8.1,Advanced,Software Engineer,8,0.6,106200,High,"Docker, JavaScript",1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,1,1,0,0,0
+CAND0285,31,Master,7.0,Advanced,ML Engineer,8,1.0,147100,High,None – Profile Complete,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0
+CAND0286,23,Bachelor,1.1,Intermediate,BI Developer,6,0.6,58600,Medium,"SQL, Data_Viz",1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0
+CAND0287,28,PhD,3.9,Advanced,Business Analyst,8,1.0,75000,High,None – Profile Complete,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,1
+CAND0288,25,Master,2.2,Intermediate,Data Scientist,6,0.8,119600,High,Statistics,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAND0289,23,Bachelor,1.1,Intermediate,AI Researcher,5,0.2,111000,Low,"Deep_Learning, ML, NLP",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CAND0290,27,PhD,2.7,Intermediate,ML Engineer,10,0.8,150700,High,Python,0,0,1,1,1,0,0,1,1,0,0,1,0,1,0,1,1,1,0,0
+CAND0291,25,Master,1.5,Intermediate,BI Developer,8,0.6,78400,Medium,"Excel, Data_Viz",1,1,1,0,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0,0
+CAND0292,29,Bachelor,4.7,Advanced,Data Scientist,3,0.2,74900,Low,"ML, Python, SQL",0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0293,30,Bachelor,9.5,Advanced,Data Analyst,5,0.4,60300,Medium,"Data_Viz, Statistics, Power_BI",1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+CAND0294,27,Master,6.5,Advanced,Data Scientist,9,1.0,117900,High,None – Profile Complete,1,1,1,0,1,0,1,0,1,1,0,0,1,0,1,0,0,0,0,0
+CAND0295,21,High School,1.2,Intermediate,AI Researcher,3,0.2,98200,Low,"Deep_Learning, ML, NLP",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+CAND0296,22,High School,1.1,Intermediate,Data Scientist,2,0.0,70800,Low,"ML, Python, SQL",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+CAND0297,27,Associate,3.6,Advanced,ML Engineer,4,0.4,114600,Low,"Deep_Learning, Docker, Python",0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+CAND0298,24,Bachelor,2.4,Intermediate,Business Analyst,6,0.6,63200,Medium,"Project_Management, Power_BI",0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+CAND0299,28,Bachelor,2.8,Intermediate,Data Engineer,9,1.0,127100,High,None – Profile Complete,1,1,0,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0
+CAND0300,29,Master,3.5,Advanced,Business Analyst,7,0.8,82900,Medium,Excel,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAND0301,33,High School,9.3,Advanced,Software Engineer,5,0.8,85000,High,Docker,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+CAND0302,29,Master,5.0,Advanced,Software Engineer,5,0.6,95900,Medium,"Docker, Java",1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0
+CAND0303,32,Bachelor,6.1,Advanced,Data Engineer,10,1.0,114900,High,None – Profile Complete,1,1,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0
+CAND0304,22,Associate,0.4,Beginner,Software Engineer,3,0.2,64000,Low,"Cloud_AWS, Docker, Python",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+CAND0305,28,Bachelor,6.8,Advanced,Data Engineer,6,0.8,99900,High,Cloud_AWS,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1
+CAND0306,24,Bachelor,0.9,Beginner,AI Researcher,5,0.4,122800,Low,"Deep_Learning, NLP, Statistics",1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+CAND0307,26,Master,3.1,Advanced,Data Scientist,7,0.8,117100,High,Data_Viz,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+CAND0308,29,Master,4.2,Advanced,Software Engineer,7,0.8,88200,High,Docker,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,1
+CAND0309,32,PhD,5.3,Advanced,AI Researcher,9,1.0,149200,High,None – Profile Complete,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1
+CAND0310,25,Associate,2.1,Intermediate,Business Analyst,2,0.2,48700,Low,"Excel, Project_Management, SQL",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+CAND0311,27,Bachelor,4.6,Advanced,Data Scientist,5,0.6,81500,Medium,"ML, Data_Viz",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CAND0312,31,Bachelor,7.6,Advanced,ML Engineer,9,1.0,146700,High,None – Profile Complete,1,0,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,1,0
+CAND0313,28,Master,3.7,Advanced,Software Engineer,5,0.6,89300,Medium,"Python, JavaScript",0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1
+CAND0314,28,Bachelor,4.0,Advanced,Business Analyst,4,0.6,56600,Medium,"Project_Management, Power_BI",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+CAND0315,28,Master,2.2,Intermediate,Software Engineer,7,0.8,97900,Medium,Docker,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1
+CAND0316,30,Master,4.0,Advanced,ML Engineer,10,0.8,155800,Medium,Python,0,0,1,1,1,0,1,0,1,0,0,1,1,1,0,0,1,0,0,1
+CAND0317,35,Master,9.5,Advanced,Business Analyst,8,0.8,69000,High,Excel,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1
+CAND0318,20,High School,1.1,Intermediate,Data Analyst,4,0.6,51000,Low,"SQL, Power_BI",0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAND0319,28,Master,2.1,Intermediate,ML Engineer,7,1.0,147900,High,None – Profile Complete,1,1,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+CAND0320,30,Bachelor,6.9,Advanced,Data Scientist,10,0.8,110100,High,ML,1,1,0,0,1,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+CAND0321,24,Master,1.3,Intermediate,Data Scientist,4,0.4,80600,Low,"ML, Python, Data_Viz",0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+CAND0322,25,Bachelor,1.4,Intermediate,Data Engineer,5,0.4,96000,Low,"Spark, Cloud_AWS, Python",0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+CAND0323,30,PhD,3.4,Advanced,Data Analyst,10,0.8,90700,High,SQL,1,0,0,1,1,1,1,1,0,0,0,1,0,1,1,1,0,0,0,0
+CAND0324,27,Bachelor,2.9,Intermediate,Data Analyst,4,0.8,51700,Medium,Data_Viz,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0325,24,Master,1.6,Intermediate,Software Engineer,9,1.0,119900,High,None – Profile Complete,1,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+CAND0326,27,Bachelor,4.1,Advanced,Software Engineer,5,0.8,85300,High,Cloud_AWS,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0
+CAND0327,32,Master,7.7,Advanced,Data Engineer,6,0.8,102900,High,Cloud_AWS,1,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+CAND0328,23,Associate,2.0,Intermediate,ML Engineer,4,0.4,108400,Low,"ML, Docker, Python",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+CAND0329,26,Master,4.1,Advanced,Data Engineer,6,0.4,103000,Medium,"Spark, Cloud_AWS, SQL",1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0
+CAND0330,20,Associate,1.4,Intermediate,BI Developer,6,0.6,65200,Medium,"SQL, Data_Viz",0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0
+CAND0331,35,PhD,12.4,Advanced,Data Analyst,5,0.6,79700,High,"Excel, Power_BI",0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+CAND0332,25,Associate,2.5,Intermediate,ML Engineer,6,0.6,116800,Medium,"Deep_Learning, Python",0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1
+CAND0333,26,Bachelor,4.3,Advanced,Data Engineer,8,0.6,126600,Medium,"Cloud_AWS, SQL",1,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+CAND0334,32,Bachelor,12.1,Advanced,Software Engineer,8,0.8,103700,High,Docker,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,1,1,0
+CAND0335,33,Master,8.6,Advanced,Software Engineer,7,0.8,112600,High,JavaScript,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+CAND0336,20,Bachelor,1.1,Intermediate,ML Engineer,8,0.6,112800,Medium,"ML, TensorFlow",1,1,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0
+CAND0337,28,Bachelor,6.0,Advanced,Business Analyst,5,0.6,71900,Medium,"Communication, Power_BI",0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+CAND0338,29,Master,5.5,Advanced,ML Engineer,4,0.6,134300,Medium,"TensorFlow, Python",0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+CAND0339,24,Bachelor,1.9,Intermediate,Data Engineer,6,0.8,94900,Medium,Spark,1,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0
+CAND0340,28,Bachelor,6.8,Advanced,Business Analyst,11,0.8,92000,High,Power_BI,0,1,0,1,0,1,0,0,0,1,1,1,1,0,1,0,0,1,1,1
+CAND0341,20,High School,0.3,Beginner,Data Analyst,5,0.4,50900,Low,"Data_Viz, Statistics, Power_BI",0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAND0342,24,High School,4.4,Advanced,BI Developer,3,0.6,50200,Medium,"Power_BI, Excel",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0343,24,PhD,1.8,Intermediate,Data Analyst,5,0.6,63300,Medium,"Data_Viz, Power_BI",1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+CAND0344,25,Bachelor,4.1,Advanced,Data Scientist,3,0.4,79000,Medium,"ML, Python, SQL",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+CAND0345,25,Master,2.9,Intermediate,Data Analyst,8,0.8,90600,Medium,Excel,0,1,1,1,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
+CAND0346,26,Bachelor,1.3,Intermediate,Data Analyst,5,0.2,66100,Low,"Excel, Data_Viz, Statistics",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+CAND0347,26,Associate,5.3,Advanced,AI Researcher,6,0.8,137900,Medium,Statistics,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+CAND0348,31,Bachelor,12.5,Advanced,Data Engineer,8,0.8,121900,High,SQL,1,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0
+CAND0349,26,Bachelor,2.9,Intermediate,AI Researcher,9,0.8,152900,Medium,Statistics,1,1,1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+CAND0350,26,Master,3.7,Advanced,BI Developer,8,0.8,74700,Medium,SQL,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1
+CAND0351,25,Bachelor,2.4,Intermediate,AI Researcher,6,0.8,142600,Medium,Statistics,1,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+CAND0352,33,Master,9.4,Advanced,BI Developer,8,0.6,85800,High,"Excel, Data_Viz",1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0
+CAND0353,33,PhD,7.5,Advanced,ML Engineer,8,1.0,154600,High,None – Profile Complete,1,0,1,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0
+CAND0354,31,Associate,4.7,Advanced,Business Analyst,3,0.6,51800,Medium,"SQL, Power_BI",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAND0355,38,Master,14.6,Advanced,Data Analyst,13,1.0,112500,High,None – Profile Complete,0,1,1,1,1,1,1,0,1,1,1,1,0,0,1,0,1,1,0,0
+CAND0356,26,Bachelor,4.8,Advanced,Data Analyst,8,0.8,62400,High,Statistics,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,1,0
+CAND0357,30,PhD,4.6,Advanced,Business Analyst,7,0.8,83400,High,Power_BI,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,1
+CAND0358,36,Master,10.7,Advanced,ML Engineer,7,0.8,136200,High,TensorFlow,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0
+CAND0359,31,Bachelor,9.8,Advanced,Data Engineer,9,1.0,121900,High,None – Profile Complete,1,1,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0
+CAND0360,29,Associate,9.0,Advanced,Data Engineer,7,0.8,119800,High,Python,0,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+CAND0361,27,PhD,3.8,Advanced,Data Engineer,6,1.0,119000,High,None – Profile Complete,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+CAND0362,25,Bachelor,0.9,Beginner,Software Engineer,7,1.0,95100,High,None – Profile Complete,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0
+CAND0363,34,Master,10.0,Advanced,Data Engineer,7,0.8,105900,High,Docker,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+CAND0364,27,Master,4.3,Advanced,Data Scientist,9,1.0,101600,High,None – Profile Complete,1,1,1,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1
+CAND0365,27,Bachelor,7.7,Advanced,AI Researcher,9,0.6,116800,High,"Deep_Learning, ML",1,1,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0,0
+CAND0366,24,Bachelor,1.6,Intermediate,Business Analyst,2,0.4,54900,Low,"Communication, SQL, Power_BI",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAND0367,22,Associate,1.5,Intermediate,Data Scientist,5,0.6,81800,Medium,"SQL, Statistics",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+CAND0368,28,Master,5.1,Advanced,Data Engineer,8,1.0,127200,High,None – Profile Complete,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0
+CAND0369,37,Bachelor,16.3,Advanced,Software Engineer,11,1.0,136600,High,None – Profile Complete,1,0,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,1,0,0
+CAND0370,27,Master,1.5,Intermediate,Data Scientist,7,0.6,122500,Medium,"Statistics, Data_Viz",1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+CAND0371,32,Bachelor,8.1,Advanced,ML Engineer,9,0.8,136000,High,ML,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0
+CAND0372,27,Bachelor,1.8,Intermediate,Data Analyst,5,0.6,61800,Medium,"Data_Viz, Statistics",1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAND0373,31,Master,7.0,Advanced,Business Analyst,13,1.0,108500,High,None – Profile Complete,0,1,1,1,0,1,1,0,0,0,1,1,0,1,1,0,1,1,1,1
+CAND0374,28,Master,4.5,Advanced,BI Developer,6,0.6,73400,Medium,"Power_BI, Excel",1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+CAND0375,28,Bachelor,8.8,Advanced,BI Developer,10,1.0,84500,High,None – Profile Complete,0,1,1,0,1,1,1,1,0,0,1,0,0,1,1,0,0,1,0,0
+CAND0376,35,Master,11.2,Advanced,Software Engineer,11,0.8,140600,High,Docker,1,0,1,1,1,1,0,0,1,1,1,0,0,1,0,0,1,1,0,0
+CAND0377,34,Bachelor,10.5,Advanced,Data Analyst,9,1.0,70300,High,None – Profile Complete,0,1,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0
+CAND0378,28,Master,2.5,Intermediate,Business Analyst,6,0.8,72200,High,SQL,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+CAND0379,23,Associate,1.5,Intermediate,Business Analyst,2,0.4,49000,Low,"Project_Management, SQL, Power_BI",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAND0380,22,Bachelor,2.2,Intermediate,AI Researcher,4,0.6,122500,Medium,"ML, Statistics",1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+CAND0381,25,Master,2.0,Intermediate,ML Engineer,10,0.6,116800,Medium,"Deep_Learning, ML",1,1,0,0,1,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0
+CAND0382,31,Associate,7.5,Advanced,BI Developer,6,0.6,59500,Medium,"Tableau, Excel",0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAND0383,33,Associate,10.0,Advanced,Data Analyst,4,0.6,62600,High,"SQL, Data_Viz",0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0384,27,Bachelor,3.1,Advanced,Business Analyst,4,0.2,69900,Low,"Excel, Project_Management, SQL",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+CAND0385,28,Master,4.9,Advanced,Business Analyst,8,1.0,80500,High,None – Profile Complete,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+CAND0386,32,Master,6.1,Advanced,Data Analyst,8,0.6,82300,Medium,"SQL, Excel",1,0,0,0,1,0,1,0,1,0,1,1,0,0,1,0,0,1,0,0
+CAND0387,27,Associate,2.3,Intermediate,Data Engineer,5,0.4,87900,Low,"Spark, Cloud_AWS, Docker",1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAND0388,28,Master,4.0,Advanced,AI Researcher,7,0.8,145100,High,Python,0,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0
+CAND0389,24,Bachelor,2.6,Intermediate,ML Engineer,7,0.8,134400,Medium,TensorFlow,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1
+CAND0390,27,PhD,3.2,Advanced,Software Engineer,8,0.6,95000,Medium,"Cloud_AWS, JavaScript",1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1
+CAND0391,26,Master,2.5,Intermediate,Data Analyst,7,0.8,68500,Medium,Data_Viz,0,1,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1
+CAND0392,27,Master,4.6,Advanced,ML Engineer,6,0.4,117400,Medium,"ML, TensorFlow, Docker",1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+CAND0393,28,PhD,3.6,Advanced,Data Scientist,5,0.6,93800,Medium,"Python, Statistics",0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0394,30,Bachelor,9.1,Advanced,Software Engineer,9,0.8,106600,High,Docker,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,1,0
+CAND0395,26,PhD,2.2,Intermediate,ML Engineer,8,0.8,132600,Medium,Deep_Learning,1,0,1,0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0
+CAND0396,29,PhD,6.6,Advanced,Data Analyst,5,0.4,79600,Medium,"Data_Viz, Statistics, Power_BI",1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+CAND0397,36,Master,13.6,Advanced,Business Analyst,11,0.8,88400,High,SQL,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,1
+CAND0398,25,Associate,2.3,Intermediate,ML Engineer,7,0.8,120200,Medium,TensorFlow,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+CAND0399,24,Associate,2.6,Intermediate,BI Developer,8,0.8,69900,Medium,Excel,1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+CAND0400,30,PhD,6.0,Advanced,Software Engineer,9,1.0,109100,High,None – Profile Complete,1,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,1,1,0,0
+CAND0401,26,Master,1.2,Intermediate,ML Engineer,4,0.8,120500,Medium,Deep_Learning,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+CAND0402,26,Master,1.7,Intermediate,Data Scientist,7,0.8,112600,Medium,Python,0,1,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+CAND0403,23,High School,2.2,Intermediate,Data Scientist,1,0.2,68500,Low,"ML, SQL, Statistics",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0404,25,Associate,3.7,Advanced,Data Scientist,7,1.0,105000,Medium,None – Profile Complete,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+CAND0405,31,Master,8.7,Advanced,Data Analyst,9,0.8,88800,High,SQL,0,0,0,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,1,0
+CAND0406,31,Bachelor,7.0,Advanced,Data Engineer,10,1.0,109900,High,None – Profile Complete,1,1,0,0,1,0,1,0,0,1,0,1,1,0,1,1,1,0,0,0
+CAND0407,32,Master,9.0,Advanced,ML Engineer,7,0.6,128200,High,"Deep_Learning, ML",1,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0
+CAND0408,24,Bachelor,4.5,Advanced,Data Analyst,3,0.4,60900,Medium,"Excel, Data_Viz, Statistics",0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0409,22,Bachelor,1.5,Intermediate,Data Scientist,6,0.6,100100,Medium,"Python, Data_Viz",0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0
+CAND0410,25,Bachelor,0.9,Beginner,Software Engineer,7,0.8,112100,Medium,Docker,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0
+CAND0411,21,Bachelor,1.1,Intermediate,Data Scientist,6,1.0,86400,High,None – Profile Complete,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+CAND0412,27,Bachelor,1.8,Intermediate,BI Developer,6,0.6,73700,Medium,"Tableau, Data_Viz",0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+CAND0413,25,Master,1.8,Intermediate,Data Scientist,8,0.8,104700,Medium,Python,0,1,1,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+CAND0414,24,Bachelor,1.0,Intermediate,AI Researcher,6,0.6,112400,Medium,"ML, NLP",1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+CAND0415,23,Bachelor,0.9,Beginner,ML Engineer,4,0.2,110700,Low,"Deep_Learning, TensorFlow, Docker",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+CAND0416,34,Associate,12.9,Advanced,Data Analyst,6,0.6,71700,Medium,"Data_Viz, Power_BI",0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+CAND0417,32,Master,8.2,Advanced,AI Researcher,13,0.8,154300,High,NLP,1,1,1,1,0,1,1,1,0,1,0,0,0,1,1,1,0,0,1,1
+CAND0418,22,Bachelor,1.5,Intermediate,BI Developer,7,0.6,75800,Medium,"SQL, Excel",0,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,1
+CAND0419,29,Master,8.4,Advanced,Data Scientist,7,0.6,104400,High,"ML, SQL",1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0
+CAND0420,23,Associate,2.1,Intermediate,Data Analyst,6,0.4,64900,Low,"Data_Viz, Statistics, Power_BI",0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+CAND0421,28,Master,1.8,Intermediate,Data Analyst,7,0.6,61800,Medium,"Data_Viz, Statistics",0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,1
+CAND0422,34,PhD,10.1,Advanced,ML Engineer,8,1.0,164300,High,None – Profile Complete,1,0,1,1,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+CAND0423,25,Master,2.1,Intermediate,BI Developer,8,0.8,68200,High,Tableau,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1
+CAND0424,34,Bachelor,14.1,Advanced,Business Analyst,8,0.6,88300,High,"Excel, SQL",0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,1,1
+CAND0425,32,Bachelor,9.0,Advanced,Data Scientist,10,1.0,116400,High,None – Profile Complete,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1
+CAND0426,31,Bachelor,9.2,Advanced,Data Analyst,6,0.8,58900,High,Excel,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+CAND0427,29,Bachelor,8.8,Advanced,Data Analyst,8,0.6,76500,Medium,"Excel, Data_Viz",1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,1,0
+CAND0428,26,Master,3.2,Advanced,Data Scientist,7,0.6,89900,High,"ML, Statistics",1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1
+CAND0429,31,Bachelor,8.8,Advanced,AI Researcher,6,0.8,136700,High,Python,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0
+CAND0430,37,Bachelor,13.3,Advanced,ML Engineer,6,0.4,113800,Medium,"ML, TensorFlow, Docker",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CAND0431,28,Master,3.5,Advanced,Software Engineer,6,0.8,87600,High,JavaScript,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0
+CAND0432,23,High School,2.6,Intermediate,Software Engineer,3,0.4,72200,Low,"Docker, Python, JavaScript",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+CAND0433,24,Master,1.8,Intermediate,Data Analyst,7,0.6,78500,Medium,"Data_Viz, Statistics",0,1,0,1,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,0
+CAND0434,37,Bachelor,13.4,Advanced,AI Researcher,6,0.8,139100,High,Deep_Learning,1,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0
+CAND0435,24,Bachelor,0.9,Beginner,Data Analyst,7,1.0,61500,Medium,None – Profile Complete,0,1,0,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
+CAND0436,31,Master,7.1,Advanced,BI Developer,7,1.0,77600,High,None – Profile Complete,0,1,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+CAND0437,28,Master,5.0,Advanced,Business Analyst,5,0.4,62300,Medium,"Excel, Project_Management, SQL",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0
+CAND0438,22,Bachelor,1.1,Intermediate,AI Researcher,5,0.8,121000,Medium,Deep_Learning,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+CAND0439,34,Master,13.0,Advanced,Software Engineer,8,1.0,106000,High,None – Profile Complete,1,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,1,0,0
+CAND0440,28,Master,6.1,Advanced,Data Scientist,4,0.4,92600,Medium,"ML, Statistics, Data_Viz",1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAND0441,26,Bachelor,2.1,Intermediate,Data Engineer,6,0.6,104300,Medium,"Docker, SQL",1,0,0,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0
+CAND0442,24,Bachelor,4.9,Advanced,AI Researcher,5,0.6,138300,Medium,"Python, Statistics",0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+CAND0443,23,Bachelor,5.0,Advanced,BI Developer,9,0.8,77600,High,Tableau,1,1,1,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0
+CAND0444,28,Associate,5.0,Advanced,AI Researcher,7,0.6,128800,Medium,"Deep_Learning, Python",0,0,1,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0,1
+CAND0445,33,Master,7.7,Advanced,Data Scientist,7,0.8,109600,High,Data_Viz,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0
+CAND0446,25,Bachelor,3.5,Advanced,Data Engineer,6,0.4,111800,Low,"Spark, Docker, Python",0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+CAND0447,24,Master,1.4,Intermediate,Software Engineer,8,0.8,102000,Medium,Cloud_AWS,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,1,0,1
+CAND0448,22,High School,1.3,Intermediate,AI Researcher,5,0.4,98300,Low,"Deep_Learning, NLP, Python",0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+CAND0449,26,Master,1.2,Intermediate,Business Analyst,6,0.6,71700,Medium,"Project_Management, SQL",0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0
+CAND0450,24,Bachelor,2.1,Intermediate,AI Researcher,8,0.6,126900,Medium,"ML, Python",0,0,0,1,1,0,1,0,1,0,0,0,0,1,1,0,0,1,0,1
+CAND0451,35,Master,10.1,Advanced,AI Researcher,7,1.0,148700,High,None – Profile Complete,1,0,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+CAND0452,26,Associate,5.0,Advanced,Business Analyst,7,0.6,55600,Medium,"Excel, Power_BI",0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1
+CAND0453,31,Master,6.1,Advanced,Data Engineer,6,0.4,102200,Medium,"Spark, Cloud_AWS, Docker",1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+CAND0454,24,Bachelor,1.2,Intermediate,Business Analyst,5,0.6,66100,Medium,"Project_Management, Power_BI",0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+CAND0455,22,High School,1.8,Intermediate,Business Analyst,3,0.6,46800,Low,"Excel, Project_Management",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAND0456,22,Bachelor,2.6,Intermediate,Data Scientist,8,0.6,126700,Medium,"SQL, Data_Viz",1,0,1,1,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0
+CAND0457,27,Master,3.4,Advanced,AI Researcher,8,0.8,142700,High,Statistics,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+CAND0458,30,Bachelor,9.3,Advanced,Data Engineer,9,0.8,120500,High,Docker,1,1,1,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0
+CAND0459,27,Master,2.6,Intermediate,AI Researcher,9,0.8,145100,Medium,Statistics,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+CAND0460,28,Master,3.2,Advanced,Data Engineer,5,0.8,100900,High,Python,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1
+CAND0461,25,Master,2.6,Intermediate,AI Researcher,4,0.6,133100,Medium,"NLP, Python",0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+CAND0462,29,Bachelor,8.0,Advanced,Business Analyst,4,0.8,57700,High,Project_Management,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAND0463,29,Bachelor,2.9,Intermediate,ML Engineer,8,0.8,123900,Medium,ML,1,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,1
+CAND0464,29,PhD,4.5,Advanced,Data Engineer,7,0.6,100000,High,"Spark, Docker",1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1
+CAND0465,31,Master,7.1,Advanced,BI Developer,7,0.8,80200,High,Excel,1,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+CAND0466,24,Associate,1.6,Intermediate,Data Analyst,7,0.8,50300,Medium,Power_BI,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1
+CAND0467,25,Bachelor,2.7,Intermediate,Data Scientist,8,1.0,101000,High,None – Profile Complete,1,1,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+CAND0468,27,Master,3.6,Advanced,Data Analyst,9,0.8,95900,Medium,Excel,0,1,1,1,1,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0
+CAND0469,23,Associate,1.4,Intermediate,Software Engineer,3,0.4,69700,Low,"Cloud_AWS, Python, JavaScript",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0
+CAND0470,37,Associate,13.1,Advanced,AI Researcher,9,1.0,143200,High,None – Profile Complete,1,0,1,1,0,1,0,0,1,0,0,1,0,0,1,1,0,0,1,0
+CAND0471,25,PhD,1.9,Intermediate,AI Researcher,7,0.6,139500,Medium,"NLP, Statistics",1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+CAND0472,30,Master,7.3,Advanced,Data Engineer,9,0.8,118100,High,Docker,1,1,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,1,0,1
+CAND0473,31,Master,5.2,Advanced,AI Researcher,6,0.6,137200,Medium,"Python, Statistics",0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+CAND0474,26,PhD,3.0,Intermediate,BI Developer,8,0.8,85500,High,Power_BI,0,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1
+CAND0475,24,Master,1.5,Intermediate,BI Developer,8,1.0,81100,Medium,None – Profile Complete,0,1,0,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0
+CAND0476,28,Bachelor,5.4,Advanced,Data Engineer,7,0.8,108400,Medium,Spark,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1
+CAND0477,24,Master,3.7,Advanced,Data Analyst,7,0.6,71900,Medium,"Excel, Statistics",1,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0
+CAND0478,28,High School,7.4,Advanced,Data Engineer,4,0.4,86800,Medium,"Cloud_AWS, Docker, Python",0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+CAND0479,25,PhD,2.5,Intermediate,ML Engineer,10,1.0,164000,High,None – Profile Complete,1,0,1,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0
+CAND0480,24,Associate,4.3,Advanced,Data Analyst,8,0.8,76100,Medium,Excel,1,1,0,1,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+CAND0481,28,Master,1.9,Intermediate,Business Analyst,7,0.6,72500,Medium,"Excel, Project_Management",0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1,1,0
+CAND0482,23,Master,1.9,Intermediate,ML Engineer,6,0.8,124300,Medium,Deep_Learning,1,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+CAND0483,21,Bachelor,0.8,Beginner,Data Analyst,3,0.4,56300,Low,"Excel, Data_Viz, Statistics",0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0484,24,Master,1.6,Intermediate,Data Engineer,4,0.2,93000,Low,"Spark, Cloud_AWS, Python",0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+CAND0485,27,Bachelor,5.1,Advanced,Business Analyst,7,0.6,71900,Medium,"Project_Management, Power_BI",0,1,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0
+CAND0486,26,PhD,1.8,Intermediate,Business Analyst,7,0.6,73200,Medium,"Communication, Project_Management",0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,1,0,0
+CAND0487,26,Bachelor,6.4,Advanced,Data Engineer,9,0.6,114500,Medium,"Spark, SQL",1,0,0,0,1,0,1,0,1,1,1,1,0,0,1,0,0,1,0,0
+CAND0488,26,Bachelor,2.6,Intermediate,AI Researcher,5,0.4,121800,Medium,"ML, Python, Statistics",0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+CAND0489,33,Bachelor,10.8,Advanced,ML Engineer,5,0.8,132600,High,Docker,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAND0490,31,PhD,5.1,Advanced,BI Developer,9,0.8,92600,High,Excel,0,1,0,1,1,0,1,1,0,0,1,0,1,0,0,1,0,1,0,0
+CAND0491,28,Bachelor,6.5,Advanced,BI Developer,8,1.0,69400,High,None – Profile Complete,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0
+CAND0492,29,Master,3.8,Advanced,Data Scientist,6,0.6,100200,Medium,"Statistics, Data_Viz",1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+CAND0493,27,Master,2.0,Intermediate,Business Analyst,3,0.2,70600,Low,"Excel, Project_Management, SQL",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+CAND0494,32,Master,8.4,Advanced,Data Engineer,5,0.8,107100,High,Python,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0
+CAND0495,26,Master,5.5,Advanced,Data Scientist,11,1.0,117300,High,None – Profile Complete,1,1,1,0,1,1,0,0,0,1,1,0,1,0,1,1,0,1,0,0
+CAND0496,28,Associate,6.2,Advanced,BI Developer,6,0.4,70100,Medium,"SQL, Power_BI, Data_Viz",1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+CAND0497,25,PhD,2.6,Intermediate,Business Analyst,11,0.8,107300,High,Communication,0,1,1,1,1,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1
+CAND0498,30,Master,8.7,Advanced,Data Analyst,11,1.0,86200,High,None – Profile Complete,1,1,0,1,1,1,1,1,0,1,0,1,0,0,1,0,0,0,0,1
+CAND0499,28,Bachelor,5.8,Advanced,Data Engineer,4,0.8,98400,High,Cloud_AWS,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+CAND0500,41,Master,18.0,Advanced,Software Engineer,11,1.0,116300,High,None – Profile Complete,1,0,1,0,1,1,0,0,0,1,0,1,0,1,1,0,1,1,1,0
+CAND0501,29,Master,5.5,Advanced,Data Engineer,8,0.8,102000,High,Spark,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+CAND0502,29,Master,4.7,Advanced,Data Analyst,7,0.6,79000,Medium,"Data_Viz, Statistics",0,1,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0
+CAND0503,28,Bachelor,5.8,Advanced,Data Analyst,6,0.6,61800,High,"SQL, Data_Viz",0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1,0
+CAND0504,39,Bachelor,11.6,Advanced,AI Researcher,5,0.6,117100,High,"Deep_Learning, NLP",1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+CAND0505,28,Master,3.7,Advanced,AI Researcher,7,0.8,137800,High,ML,1,0,0,1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0
+CAND0506,31,Bachelor,7.4,Advanced,Data Scientist,7,0.8,84300,High,ML,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+CAND0507,39,Bachelor,16.2,Advanced,BI Developer,9,1.0,74700,High,None – Profile Complete,0,1,0,0,1,1,1,1,0,0,1,1,0,0,0,1,0,1,0,0
+CAND0508,31,PhD,4.3,Advanced,Data Analyst,7,0.6,77100,Medium,"Excel, Statistics",0,1,0,0,1,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0
+CAND0509,30,Master,6.5,Advanced,Business Analyst,9,0.8,82100,High,Power_BI,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,0,1,0,1,1
+CAND0510,31,Master,8.0,Advanced,Data Analyst,7,0.6,71700,High,"Data_Viz, Statistics",0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+CAND0511,26,Associate,3.2,Advanced,BI Developer,4,0.4,61700,Low,"Tableau, Excel, Data_Viz",0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAND0512,25,Bachelor,2.8,Intermediate,ML Engineer,6,0.6,110500,Medium,"Deep_Learning, TensorFlow",1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+CAND0513,33,Bachelor,9.0,Advanced,ML Engineer,4,0.6,119200,High,"Deep_Learning, Python",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+CAND0514,28,Bachelor,8.0,Advanced,AI Researcher,6,0.6,121500,Medium,"ML, NLP",1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+CAND0515,23,Bachelor,2.2,Intermediate,Data Analyst,7,0.4,68800,Low,"SQL, Statistics, Power_BI",0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,1,0,0,1,0
+CAND0516,28,Master,3.3,Advanced,Data Analyst,6,0.6,63100,Medium,"SQL, Excel",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,1
+CAND0517,26,Master,2.8,Intermediate,ML Engineer,10,0.8,144000,Medium,Python,0,1,1,1,1,0,1,0,0,1,0,1,0,1,0,0,0,1,1,0
+CAND0518,29,Master,5.2,Advanced,ML Engineer,4,0.6,127800,Medium,"TensorFlow, Docker",1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0519,24,Master,1.6,Intermediate,AI Researcher,6,0.8,123900,Medium,ML,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+CAND0520,25,Associate,3.3,Advanced,Business Analyst,0,0.0,51100,Low,"Excel, Communication, Project_Management",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0521,27,Master,6.1,Advanced,Data Analyst,8,1.0,73600,High,None – Profile Complete,0,1,0,0,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1
+CAND0522,25,Bachelor,3.4,Advanced,Business Analyst,7,0.6,80400,Medium,"Project_Management, Power_BI",0,1,0,1,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0
+CAND0523,37,Master,15.0,Advanced,ML Engineer,12,0.6,150000,High,"Deep_Learning, ML",1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0
+CAND0524,28,Master,5.1,Advanced,Business Analyst,6,0.8,70600,High,Communication,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAND0525,35,High School,13.4,Advanced,Data Scientist,9,0.4,100900,Medium,"ML, SQL, Data_Viz",1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,1,0,1,0,1
+CAND0526,27,Bachelor,2.1,Intermediate,ML Engineer,6,0.4,121100,Low,"ML, TensorFlow, Docker",1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+CAND0527,27,PhD,2.0,Intermediate,Software Engineer,9,0.8,108200,High,JavaScript,1,0,0,1,0,0,1,0,0,1,0,1,0,0,1,1,1,0,0,1
+CAND0528,27,Master,5.8,Advanced,Data Analyst,7,0.6,76800,Medium,"SQL, Data_Viz",0,0,0,1,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1
+CAND0529,27,Master,2.4,Intermediate,Business Analyst,7,0.4,86300,Medium,"Excel, Communication, Project_Management",0,1,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+CAND0530,27,Bachelor,5.3,Advanced,Software Engineer,7,0.8,105600,High,Java,1,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0
+CAND0531,27,Associate,5.9,Advanced,BI Developer,4,0.4,56200,Medium,"SQL, Excel, Data_Viz",0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0
+CAND0532,22,Master,1.2,Intermediate,AI Researcher,5,0.8,124400,Medium,Deep_Learning,1,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAND0533,25,Master,2.3,Intermediate,Software Engineer,6,0.6,93400,Medium,"Docker, Java",1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1
+CAND0534,24,Master,1.3,Intermediate,ML Engineer,5,0.6,121300,Medium,"Deep_Learning, Docker",1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+CAND0535,24,Bachelor,1.9,Intermediate,AI Researcher,4,0.6,109900,Medium,"Deep_Learning, NLP",1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+CAND0536,27,Master,1.5,Intermediate,AI Researcher,5,0.6,136900,Medium,"NLP, Statistics",1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+CAND0537,30,PhD,4.7,Advanced,Software Engineer,9,1.0,106100,High,None – Profile Complete,1,0,1,0,0,0,0,1,0,1,0,1,0,0,1,1,1,1,0,0
+CAND0538,25,Bachelor,1.1,Intermediate,Software Engineer,6,0.6,97100,Medium,"Python, Java",0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0
+CAND0539,27,Master,4.3,Advanced,Data Scientist,7,0.8,90300,High,ML,1,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0
+CAND0540,28,Master,3.6,Advanced,Data Scientist,6,0.8,105500,High,Python,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+CAND0541,30,Master,3.4,Advanced,ML Engineer,9,1.0,141200,High,None – Profile Complete,1,0,1,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1
+CAND0542,25,Bachelor,0.9,Beginner,Data Engineer,4,0.8,93000,Medium,Cloud_AWS,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+CAND0543,24,Associate,3.1,Advanced,Data Scientist,5,0.8,87100,Medium,Data_Viz,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+CAND0544,25,Bachelor,1.5,Intermediate,Business Analyst,4,0.8,54700,Medium,Power_BI,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAND0545,29,Master,5.8,Advanced,BI Developer,8,0.6,89800,Medium,"SQL, Tableau",0,0,0,1,1,1,1,0,0,1,0,1,0,1,0,0,0,1,0,0
+CAND0546,25,Bachelor,3.9,Advanced,Data Engineer,7,0.8,112500,Medium,Docker,1,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0
+CAND0547,32,Master,7.4,Advanced,BI Developer,8,1.0,69400,High,None – Profile Complete,0,1,0,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,1
+CAND0548,27,Bachelor,3.6,Advanced,Data Scientist,8,0.8,98800,Medium,Python,0,1,1,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+CAND0549,27,Bachelor,3.6,Advanced,Data Engineer,6,0.8,97700,Medium,Docker,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0
+CAND0550,31,Master,6.7,Advanced,BI Developer,10,0.8,98300,High,Excel,1,1,0,0,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,1
+CAND0551,29,Bachelor,5.3,Advanced,AI Researcher,9,0.8,146100,Medium,Python,0,0,1,1,0,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0
+CAND0552,23,Bachelor,0.8,Beginner,BI Developer,3,0.4,63100,Low,"Power_BI, Tableau, Data_Viz",0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAND0553,23,Bachelor,1.5,Intermediate,Business Analyst,5,0.4,56200,Low,"Communication, Project_Management, SQL",0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0
+CAND0554,27,Bachelor,4.5,Advanced,Software Engineer,10,0.6,116000,Medium,"Cloud_AWS, Java",1,0,1,1,1,0,1,1,0,0,0,1,0,1,1,0,0,1,0,0
+CAND0555,38,Bachelor,13.7,Advanced,ML Engineer,10,0.8,161600,High,Docker,1,1,1,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,0
+CAND0556,25,Bachelor,5.6,Advanced,BI Developer,5,0.6,69700,Medium,"Power_BI, Data_Viz",0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+CAND0557,26,Bachelor,2.9,Intermediate,AI Researcher,6,0.2,115300,Low,"Deep_Learning, ML, NLP",0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0
+CAND0558,25,Master,1.7,Intermediate,Data Scientist,8,0.8,100000,Medium,ML,1,1,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0
+CAND0559,27,Master,2.1,Intermediate,Data Scientist,8,0.8,101000,Medium,SQL,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1
+CAND0560,21,Bachelor,0.9,Beginner,BI Developer,4,0.4,71200,Low,"SQL, Power_BI, Tableau",0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+CAND0561,30,Master,5.9,Advanced,Data Analyst,8,0.6,89300,Medium,"SQL, Data_Viz",0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,0,0,1
+CAND0562,28,Master,3.9,Advanced,Data Analyst,11,0.8,93200,Medium,Statistics,0,1,0,1,1,1,1,0,0,0,0,1,1,1,0,1,1,1,0,0
+CAND0563,23,Bachelor,1.6,Intermediate,Data Scientist,3,0.4,86400,Low,"ML, Statistics, Data_Viz",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAND0564,26,PhD,2.5,Intermediate,ML Engineer,6,0.8,138500,Medium,ML,1,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+CAND0565,25,PhD,1.9,Intermediate,ML Engineer,7,0.8,153900,High,Docker,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0
+CAND0566,46,Bachelor,24.3,Advanced,AI Researcher,6,0.6,120400,High,"Deep_Learning, ML",1,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0
+CAND0567,24,Bachelor,2.5,Intermediate,ML Engineer,6,0.6,110600,Medium,"Deep_Learning, TensorFlow",1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+CAND0568,26,Master,5.5,Advanced,Data Engineer,6,0.6,98300,Medium,"Spark, Docker",1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0
+CAND0569,24,Bachelor,0.8,Beginner,Data Scientist,3,0.4,95100,Low,"SQL, Statistics, Data_Viz",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAND0570,28,Master,4.7,Advanced,Software Engineer,6,1.0,93900,High,None – Profile Complete,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0
+CAND0571,28,Master,4.1,Advanced,Business Analyst,5,0.8,58800,High,SQL,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+CAND0572,25,Bachelor,1.7,Intermediate,BI Developer,4,0.4,64000,Low,"SQL, Power_BI, Data_Viz",0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+CAND0573,34,PhD,7.3,Advanced,AI Researcher,9,1.0,158300,High,None – Profile Complete,1,0,1,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,1
+CAND0574,27,Master,1.9,Intermediate,Software Engineer,4,0.4,86000,Low,"Cloud_AWS, Docker, Python",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0
+CAND0575,23,Bachelor,1.7,Intermediate,Data Scientist,3,0.4,78000,Low,"ML, SQL, Statistics",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0576,27,PhD,4.4,Advanced,Business Analyst,10,1.0,79500,High,None – Profile Complete,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1
+CAND0577,28,Master,5.5,Advanced,Data Engineer,7,0.6,122100,Medium,"Spark, SQL",1,0,0,1,0,0,1,0,1,1,0,1,0,0,0,1,0,0,0,0
+CAND0578,31,PhD,5.6,Advanced,Software Engineer,4,0.6,98100,Medium,"Docker, Java",1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+CAND0579,29,Bachelor,5.5,Advanced,ML Engineer,4,0.4,109800,Medium,"Deep_Learning, ML, Docker",1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+CAND0580,29,Master,7.2,Advanced,Software Engineer,8,0.8,100600,High,Cloud_AWS,1,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0
+CAND0581,25,Associate,5.2,Advanced,ML Engineer,5,0.6,126500,Medium,"Docker, Python",0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+CAND0582,23,High School,4.4,Advanced,AI Researcher,4,0.4,107500,Low,"Deep_Learning, NLP, Python",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+CAND0583,27,Master,2.8,Intermediate,Business Analyst,11,0.8,96500,High,Communication,1,1,0,1,0,1,1,0,1,0,1,0,0,1,0,0,1,1,0,1
+CAND0584,20,Associate,0.8,Beginner,Business Analyst,4,0.8,49500,Medium,Excel,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAND0585,47,Master,25.4,Advanced,Software Engineer,10,1.0,109300,High,None – Profile Complete,1,1,0,0,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,1
+CAND0586,28,Master,4.5,Advanced,Software Engineer,6,0.6,107400,Medium,"Python, Java",0,0,1,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0
+CAND0587,24,Bachelor,0.9,Beginner,AI Researcher,5,0.8,131500,Medium,Python,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+CAND0588,29,Bachelor,4.7,Advanced,BI Developer,8,0.8,78700,High,Power_BI,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0,1,0,0
+CAND0589,43,Master,19.9,Advanced,BI Developer,10,1.0,94600,High,None – Profile Complete,1,1,0,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0
+CAND0590,29,Bachelor,4.4,Advanced,Business Analyst,5,0.6,64800,Medium,"Communication, Power_BI",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+CAND0591,46,Bachelor,22.5,Advanced,Software Engineer,13,1.0,126700,High,None – Profile Complete,1,1,0,1,0,1,0,1,1,1,0,1,0,1,0,0,1,1,1,1
+CAND0592,28,Bachelor,5.3,Advanced,Data Engineer,8,0.8,109400,High,Spark,1,1,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,1
+CAND0593,30,PhD,2.3,Intermediate,Data Analyst,10,1.0,82600,High,None – Profile Complete,0,1,0,0,1,1,1,1,0,1,1,0,0,1,1,0,0,1,0,0
+CAND0594,26,Bachelor,1.5,Intermediate,Software Engineer,8,0.6,97100,Medium,"Java, JavaScript",1,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0,1,1
+CAND0595,31,Bachelor,5.7,Advanced,Data Analyst,4,0.6,63400,Medium,"SQL, Statistics",0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0596,27,High School,6.0,Advanced,ML Engineer,7,1.0,138200,High,None – Profile Complete,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+CAND0597,31,Master,7.7,Advanced,AI Researcher,9,1.0,166400,High,None – Profile Complete,1,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0
+CAND0598,26,Bachelor,4.2,Advanced,Data Engineer,8,1.0,121400,High,None – Profile Complete,1,1,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0
+CAND0599,28,Master,4.8,Advanced,ML Engineer,7,0.8,127400,High,ML,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+CAND0600,25,Associate,4.1,Advanced,Data Scientist,6,0.6,108300,Medium,"SQL, Statistics",1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+CAND0601,34,Master,9.9,Advanced,ML Engineer,8,0.8,149600,High,Docker,1,0,1,1,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0
+CAND0602,25,PhD,1.7,Intermediate,Software Engineer,7,0.8,100300,High,Python,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,1
+CAND0603,28,PhD,4.1,Advanced,Software Engineer,8,1.0,114800,High,None – Profile Complete,1,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,1,1,0,0
+CAND0604,22,Associate,1.3,Intermediate,Data Scientist,3,0.6,74100,Low,"ML, Statistics",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0605,23,Bachelor,1.2,Intermediate,Data Engineer,8,0.8,104200,Medium,Docker,1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,1
+CAND0606,30,Bachelor,7.2,Advanced,Data Analyst,7,0.4,77000,Medium,"Excel, Statistics, Power_BI",0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0
+CAND0607,23,Bachelor,1.4,Intermediate,BI Developer,7,0.6,63700,Medium,"Power_BI, Tableau",1,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+CAND0608,30,Bachelor,7.4,Advanced,Data Scientist,5,0.6,88100,Medium,"Python, Data_Viz",0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+CAND0609,25,Master,1.9,Intermediate,Data Scientist,4,0.8,90900,Medium,SQL,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0610,23,Master,1.8,Intermediate,Software Engineer,3,0.4,80300,Medium,"Cloud_AWS, Docker, JavaScript",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+CAND0611,27,Bachelor,4.7,Advanced,ML Engineer,5,0.6,123700,Medium,"ML, Python",0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0
+CAND0612,29,Bachelor,7.7,Advanced,BI Developer,5,0.4,66900,Medium,"SQL, Tableau, Excel",0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0
+CAND0613,31,Bachelor,6.0,Advanced,AI Researcher,6,0.8,144500,High,Statistics,1,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAND0614,27,Bachelor,3.9,Advanced,Business Analyst,6,0.6,73400,Medium,"Excel, Power_BI",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1
+CAND0615,26,Bachelor,3.5,Advanced,Data Engineer,5,1.0,104000,High,None – Profile Complete,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+CAND0616,31,Bachelor,8.7,Advanced,BI Developer,8,0.6,78600,Medium,"Power_BI, Data_Viz",0,1,1,0,0,1,0,1,0,0,0,1,0,1,1,0,0,1,0,0
+CAND0617,29,Bachelor,6.5,Advanced,ML Engineer,9,1.0,146000,High,None – Profile Complete,1,0,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,1
+CAND0618,30,Bachelor,4.9,Advanced,AI Researcher,8,0.6,139100,Medium,"Deep_Learning, NLP",1,0,1,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+CAND0619,28,Bachelor,5.1,Advanced,Business Analyst,10,0.6,79200,Medium,"Project_Management, Power_BI",1,1,1,0,1,1,0,0,0,1,0,1,0,0,0,1,0,1,1,0
+CAND0620,23,Bachelor,1.6,Intermediate,Software Engineer,7,0.8,96300,Medium,Java,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1
+CAND0621,38,PhD,15.6,Advanced,Data Scientist,14,1.0,145500,High,None – Profile Complete,1,1,1,1,1,0,0,0,1,0,0,1,1,0,1,1,1,1,1,1
+CAND0622,23,Bachelor,1.2,Intermediate,AI Researcher,6,0.8,135700,Medium,Statistics,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+CAND0623,24,Master,2.0,Intermediate,Data Analyst,7,0.4,59800,Medium,"Excel, Data_Viz, Statistics",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1
+CAND0624,24,Bachelor,2.0,Intermediate,Data Analyst,5,0.6,65200,Medium,"SQL, Statistics",0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+CAND0625,22,Master,1.9,Intermediate,BI Developer,6,0.6,69600,Medium,"Excel, Data_Viz",1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0
+CAND0626,25,PhD,1.8,Intermediate,Data Analyst,6,0.6,66600,Medium,"SQL, Statistics",0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0
+CAND0627,30,Bachelor,10.4,Advanced,AI Researcher,4,0.6,114800,High,"ML, NLP",1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0628,26,Bachelor,3.0,Intermediate,Data Engineer,6,0.6,103700,Medium,"Cloud_AWS, SQL",1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0
+CAND0629,26,Master,1.9,Intermediate,ML Engineer,2,0.4,106200,Medium,"Deep_Learning, ML, Python",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+CAND0630,26,Bachelor,3.6,Advanced,Business Analyst,2,0.2,57100,Low,"Excel, Communication, Project_Management",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+CAND0631,25,Master,1.9,Intermediate,Data Engineer,9,1.0,114700,High,None – Profile Complete,1,1,0,0,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0
+CAND0632,26,Master,2.5,Intermediate,BI Developer,4,0.8,59800,Medium,Power_BI,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0633,26,Master,3.2,Advanced,AI Researcher,7,0.6,127900,Medium,"ML, NLP",1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1
+CAND0634,29,Master,4.5,Advanced,ML Engineer,10,1.0,150200,High,None – Profile Complete,1,0,1,1,1,1,0,0,0,0,0,1,1,1,1,0,0,1,0,0
+CAND0635,22,Associate,0.5,Beginner,ML Engineer,4,0.4,113100,Low,"TensorFlow, Docker, Python",0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAND0636,25,Bachelor,0.9,Beginner,Data Analyst,5,0.4,68000,Low,"Excel, Statistics, Power_BI",0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAND0637,30,PhD,2.8,Intermediate,Data Scientist,10,1.0,137200,High,None – Profile Complete,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1
+CAND0638,34,PhD,10.2,Advanced,Data Engineer,11,1.0,132300,High,None – Profile Complete,1,1,0,1,0,0,0,1,0,1,1,1,1,0,0,1,1,0,0,1
+CAND0639,38,Bachelor,14.0,Advanced,Data Scientist,10,1.0,104800,High,None – Profile Complete,1,1,1,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+CAND0640,24,Bachelor,2.0,Intermediate,AI Researcher,6,0.6,127300,Medium,"Deep_Learning, Python",0,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0
+CAND0641,28,PhD,2.4,Intermediate,Business Analyst,4,0.4,66400,Medium,"Excel, Project_Management, SQL",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0
+CAND0642,35,Bachelor,14.6,Advanced,Data Engineer,10,1.0,117800,High,None – Profile Complete,1,1,0,0,1,1,0,1,0,1,0,1,1,1,0,0,0,0,1,0
+CAND0643,28,Bachelor,3.3,Advanced,Business Analyst,6,1.0,67500,High,None – Profile Complete,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+CAND0644,35,PhD,8.4,Advanced,Data Scientist,8,0.6,119500,High,"ML, Python",0,1,0,1,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,1
+CAND0645,34,Bachelor,9.4,Advanced,ML Engineer,10,0.8,134500,High,ML,1,0,0,1,1,1,0,1,1,0,0,1,0,1,1,0,0,0,0,1
+CAND0646,24,Bachelor,2.5,Intermediate,Data Engineer,8,0.8,117000,Medium,Python,0,1,0,1,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0
+CAND0647,24,Associate,5.7,Advanced,ML Engineer,5,0.8,129000,Medium,Python,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+CAND0648,27,Master,3.5,Advanced,Software Engineer,9,0.8,120500,High,JavaScript,1,0,0,1,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0
+CAND0649,29,Bachelor,6.1,Advanced,Software Engineer,6,0.6,86700,Medium,"Python, Java",0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0
+CAND0650,36,Master,10.3,Advanced,BI Developer,8,0.6,76700,High,"SQL, Excel",0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,1,0,0,1
+CAND0651,27,High School,7.0,Advanced,Data Scientist,2,0.0,83900,Low,"ML, Python, SQL",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+CAND0652,41,Associate,16.2,Advanced,Business Analyst,12,0.8,103400,High,Excel,0,1,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,0,1,1
+CAND0653,23,High School,4.3,Advanced,ML Engineer,2,0.2,95600,Low,"Deep_Learning, TensorFlow, Docker",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0654,33,Bachelor,11.9,Advanced,AI Researcher,9,1.0,139900,High,None – Profile Complete,1,0,1,1,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,1
+CAND0655,21,Associate,0.6,Beginner,ML Engineer,5,0.6,125000,Low,"TensorFlow, Python",0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+CAND0656,25,Bachelor,4.2,Advanced,AI Researcher,9,0.8,138100,Medium,ML,1,0,0,1,1,0,0,1,1,0,0,1,1,0,1,1,0,0,0,0
+CAND0657,25,Master,3.8,Advanced,Business Analyst,8,1.0,64700,High,None – Profile Complete,0,1,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,1
+CAND0658,25,Bachelor,1.2,Intermediate,Data Engineer,7,0.4,95600,Low,"Spark, Docker, SQL",1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1
+CAND0659,28,Master,2.2,Intermediate,Software Engineer,5,0.4,91300,Low,"Cloud_AWS, Python, Java",0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAND0660,26,Bachelor,2.2,Intermediate,Data Engineer,2,0.2,90500,Low,"Spark, Cloud_AWS, Python",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+CAND0661,20,Bachelor,0.9,Beginner,ML Engineer,3,0.6,122900,Medium,"Docker, Python",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAND0662,28,PhD,4.9,Advanced,Data Engineer,9,0.8,125900,High,SQL,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,1
+CAND0663,25,Bachelor,1.3,Intermediate,ML Engineer,6,0.6,130500,Medium,"Docker, Python",0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+CAND0664,27,Bachelor,4.0,Advanced,AI Researcher,8,0.8,141900,Medium,Python,0,0,1,1,0,1,0,1,1,0,1,0,0,0,1,0,0,0,1,0
+CAND0665,26,Master,5.0,Advanced,Software Engineer,11,1.0,109800,High,None – Profile Complete,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,1,1,1,1
+CAND0666,27,Bachelor,5.3,Advanced,Business Analyst,10,0.8,73000,High,Power_BI,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,0,1,1
+CAND0667,25,Bachelor,1.6,Intermediate,Software Engineer,4,0.4,75100,Low,"Cloud_AWS, Docker, JavaScript",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+CAND0668,31,Bachelor,9.3,Advanced,ML Engineer,3,0.4,103300,Medium,"Deep_Learning, ML, TensorFlow",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+CAND0669,29,Bachelor,6.1,Advanced,AI Researcher,4,0.6,133800,Medium,"NLP, Python",0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+CAND0670,30,Master,4.2,Advanced,BI Developer,8,0.2,85300,Medium,"SQL, Power_BI, Excel",0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,1,1,0,0
+CAND0671,32,Master,8.2,Advanced,AI Researcher,7,1.0,143700,High,None – Profile Complete,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0
+CAND0672,25,Bachelor,2.7,Intermediate,Business Analyst,6,0.2,88600,Low,"Communication, Project_Management, SQL",0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+CAND0673,24,Master,3.8,Advanced,Data Analyst,5,0.6,59100,Medium,"Statistics, Power_BI",0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+CAND0674,23,High School,1.3,Intermediate,Data Engineer,0,0.0,71400,Low,"Spark, Cloud_AWS, Docker",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0675,28,Master,2.9,Intermediate,BI Developer,5,0.2,64700,Low,"Power_BI, Tableau, Excel",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+CAND0676,27,Master,2.4,Intermediate,Business Analyst,7,0.8,72300,High,Power_BI,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,1,1
+CAND0677,23,Master,1.7,Intermediate,AI Researcher,9,1.0,153500,High,None – Profile Complete,1,0,1,1,0,1,0,0,1,0,0,1,0,1,1,0,1,0,0,0
+CAND0678,21,Bachelor,1.5,Intermediate,ML Engineer,3,0.4,107300,Low,"ML, TensorFlow, Python",0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0679,34,Master,10.3,Advanced,Data Engineer,10,0.6,123200,High,"Spark, Python",0,1,1,0,0,0,0,1,0,1,1,1,0,1,0,1,0,0,1,1
+CAND0680,27,Bachelor,1.9,Intermediate,BI Developer,6,0.6,65300,Medium,"Excel, Data_Viz",1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0
+CAND0681,25,PhD,3.8,Advanced,BI Developer,11,1.0,95300,High,None – Profile Complete,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,1,1
+CAND0682,26,High School,6.2,Advanced,ML Engineer,5,0.2,108900,Low,"Deep_Learning, ML, Docker",0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0
+CAND0683,27,Master,3.2,Advanced,Software Engineer,4,0.8,91600,High,JavaScript,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
+CAND0684,31,Bachelor,10.2,Advanced,AI Researcher,6,0.8,131800,High,ML,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+CAND0685,25,Associate,2.6,Intermediate,Software Engineer,4,0.4,74400,Low,"Cloud_AWS, Python, Java",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0
+CAND0686,34,Master,11.9,Advanced,Data Scientist,7,0.8,119500,High,SQL,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+CAND0687,27,Bachelor,9.0,Advanced,Software Engineer,4,0.6,84100,Medium,"Cloud_AWS, Java",1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+CAND0688,22,Bachelor,1.5,Intermediate,Software Engineer,11,1.0,115900,High,None – Profile Complete,1,0,1,1,0,1,0,1,0,1,0,1,0,0,0,0,1,1,1,1
+CAND0689,25,Master,1.9,Intermediate,AI Researcher,7,0.6,138300,Medium,"NLP, Statistics",1,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+CAND0690,22,Master,1.4,Intermediate,BI Developer,7,0.6,72400,Medium,"SQL, Tableau",0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1
+CAND0691,24,Master,2.1,Intermediate,ML Engineer,10,0.6,136600,Medium,"TensorFlow, Docker",1,1,1,1,0,0,1,1,0,1,0,0,0,0,1,1,0,0,1,0
+CAND0692,23,Bachelor,1.9,Intermediate,ML Engineer,5,0.4,107600,Low,"Deep_Learning, TensorFlow, Python",0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+CAND0693,30,Master,8.2,Advanced,BI Developer,8,1.0,70600,High,None – Profile Complete,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+CAND0694,28,Master,2.5,Intermediate,Data Scientist,10,0.8,110700,High,Data_Viz,1,1,1,0,0,1,1,0,0,0,1,0,0,1,1,1,0,1,0,0
+CAND0695,30,Master,2.6,Intermediate,ML Engineer,9,0.8,126700,Medium,ML,1,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,1,1,1
+CAND0696,24,Bachelor,4.1,Advanced,Data Analyst,7,0.4,86800,Medium,"SQL, Excel, Data_Viz",0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0
+CAND0697,31,PhD,6.3,Advanced,Data Scientist,10,1.0,117700,High,None – Profile Complete,1,1,1,0,1,0,1,0,0,1,0,0,1,0,1,0,1,0,1,0
+CAND0698,25,Master,2.4,Intermediate,Data Analyst,10,1.0,75400,High,None – Profile Complete,1,1,0,0,1,1,1,0,0,1,0,1,0,0,1,0,0,1,0,1
+CAND0699,30,Bachelor,5.3,Advanced,AI Researcher,5,0.6,136100,Medium,"Python, Statistics",0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0
+CAND0700,27,Bachelor,2.1,Intermediate,AI Researcher,1,0.2,101900,Low,"Deep_Learning, ML, NLP",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0701,28,Master,2.3,Intermediate,ML Engineer,5,0.4,131800,Medium,"TensorFlow, Docker, Python",0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+CAND0702,23,Master,1.4,Intermediate,AI Researcher,7,0.8,137900,Medium,Statistics,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+CAND0703,33,Bachelor,11.4,Advanced,Data Engineer,8,0.6,105200,High,"Docker, Python",0,1,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0
+CAND0704,27,Bachelor,1.6,Intermediate,Data Analyst,5,0.6,58700,Low,"Excel, Data_Viz",0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1
+CAND0705,27,PhD,1.8,Intermediate,Data Analyst,6,1.0,70900,High,None – Profile Complete,0,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAND0706,27,Associate,0.8,Beginner,AI Researcher,3,0.4,101600,Low,"ML, NLP, Python",0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0707,29,PhD,3.7,Advanced,Data Scientist,5,0.4,90800,Medium,"ML, Python, SQL",0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+CAND0708,31,Master,10.4,Advanced,Data Analyst,7,0.8,88600,High,Excel,0,1,0,1,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0
+CAND0709,35,Master,12.9,Advanced,Business Analyst,11,0.8,90000,High,Project_Management,0,1,0,0,0,1,1,1,0,1,1,0,1,1,1,0,0,1,1,0
+CAND0710,27,Master,1.3,Intermediate,Data Scientist,5,0.6,91000,Medium,"Python, SQL",0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+CAND0711,27,Master,4.5,Advanced,ML Engineer,5,0.6,117600,Medium,"ML, TensorFlow",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+CAND0712,25,Associate,2.5,Intermediate,Data Scientist,4,0.4,92100,Low,"SQL, Statistics, Data_Viz",1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+CAND0713,21,Associate,0.4,Beginner,AI Researcher,1,0.2,103200,Low,"Deep_Learning, NLP, Python",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0714,30,PhD,4.9,Advanced,Data Scientist,8,0.8,104100,High,ML,1,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1
+CAND0715,23,Bachelor,2.7,Intermediate,Software Engineer,4,0.6,83300,Medium,"Cloud_AWS, Java",1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+CAND0716,23,Bachelor,1.2,Intermediate,Data Analyst,3,0.2,61300,Low,"SQL, Excel, Data_Viz",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+CAND0717,48,Master,22.9,Advanced,AI Researcher,12,1.0,165500,High,None – Profile Complete,1,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,0,0,0,1
+CAND0718,26,Bachelor,5.3,Advanced,Data Engineer,9,0.6,97000,Medium,"Docker, Python",0,1,0,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1,1,1
+CAND0719,28,Bachelor,4.8,Advanced,Business Analyst,9,0.6,82300,Medium,"SQL, Power_BI",0,0,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0,1,1
+CAND0720,34,Master,9.4,Advanced,Business Analyst,8,0.8,83700,High,Project_Management,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0
+CAND0721,29,Master,2.0,Intermediate,AI Researcher,8,0.6,132100,Medium,"Deep_Learning, Python",0,0,1,0,1,0,1,0,1,0,0,1,0,1,1,0,0,0,1,0
+CAND0722,36,Associate,13.6,Advanced,AI Researcher,11,1.0,150500,High,None – Profile Complete,1,0,1,1,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,1
+CAND0723,28,Master,4.3,Advanced,BI Developer,6,0.6,72700,Medium,"SQL, Excel",0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0
+CAND0724,32,Master,8.1,Advanced,Data Scientist,6,0.6,101500,High,"Python, SQL",0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0
+CAND0725,27,Master,2.4,Intermediate,Software Engineer,3,0.4,88400,Medium,"Docker, Python, Java",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+CAND0726,28,Bachelor,4.9,Advanced,AI Researcher,8,1.0,141200,High,None – Profile Complete,1,0,1,1,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0
+CAND0727,29,Master,4.5,Advanced,Data Scientist,9,0.8,127900,Medium,Python,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1
+CAND0728,29,Master,3.2,Advanced,Data Engineer,5,0.8,99700,High,Cloud_AWS,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+CAND0729,33,Bachelor,11.7,Advanced,Data Engineer,5,0.6,97400,High,"Docker, Python",0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+CAND0730,24,Bachelor,1.1,Intermediate,ML Engineer,5,0.6,108300,Low,"Deep_Learning, TensorFlow",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+CAND0731,26,Bachelor,5.1,Advanced,Software Engineer,6,0.6,83300,Medium,"Python, JavaScript",0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1
+CAND0732,25,Master,3.5,Advanced,Data Scientist,6,0.6,106100,Medium,"SQL, Data_Viz",1,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0
+CAND0733,37,Master,12.5,Advanced,BI Developer,5,0.8,65300,High,Data_Viz,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+CAND0734,26,Master,4.7,Advanced,BI Developer,6,0.6,75200,Medium,"Excel, Data_Viz",0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0
+CAND0735,25,Associate,2.4,Intermediate,BI Developer,5,0.4,54300,Medium,"Tableau, Excel, Data_Viz",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+CAND0736,30,Master,4.6,Advanced,Data Engineer,6,0.8,114300,High,Cloud_AWS,1,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+CAND0737,25,Bachelor,1.1,Intermediate,Data Scientist,4,0.8,86900,Medium,SQL,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0738,23,Bachelor,1.5,Intermediate,AI Researcher,5,0.6,113400,Low,"Deep_Learning, NLP",1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0739,34,Associate,11.6,Advanced,Business Analyst,9,0.8,69200,High,Excel,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,1,1,1
+CAND0740,30,Master,7.3,Advanced,BI Developer,5,0.4,90800,Medium,"SQL, Power_BI, Excel",0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+CAND0741,31,Associate,8.7,Advanced,AI Researcher,3,0.6,109500,Medium,"ML, NLP",1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0742,27,Master,3.8,Advanced,Data Scientist,12,0.6,124000,Medium,"SQL, Data_Viz",1,0,1,0,0,0,1,1,1,1,0,1,0,1,1,1,1,0,0,1
+CAND0743,27,Bachelor,4.9,Advanced,Software Engineer,10,0.8,87800,High,Docker,1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1,1,1,1
+CAND0744,25,Bachelor,1.8,Intermediate,Software Engineer,8,1.0,97300,High,None – Profile Complete,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1
+CAND0745,29,Master,8.2,Advanced,ML Engineer,9,1.0,153100,High,None – Profile Complete,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+CAND0746,31,Master,5.2,Advanced,BI Developer,7,0.6,85900,High,"SQL, Power_BI",0,0,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0
+CAND0747,39,Bachelor,13.5,Advanced,Software Engineer,9,1.0,118400,High,None – Profile Complete,1,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1,1,0
+CAND0748,22,Bachelor,1.6,Intermediate,Data Scientist,5,0.6,79200,Medium,"ML, Statistics",1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0749,29,Master,4.2,Advanced,Business Analyst,7,0.4,80700,Medium,"Excel, Communication, Power_BI",1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1
+CAND0750,23,Bachelor,1.6,Intermediate,BI Developer,5,0.4,68600,Low,"Tableau, Excel, Data_Viz",0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+CAND0751,20,Associate,2.4,Intermediate,Software Engineer,6,0.6,89400,Medium,"Docker, JavaScript",1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1
+CAND0752,26,Bachelor,3.6,Advanced,AI Researcher,5,0.8,130600,High,NLP,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0753,28,Master,4.5,Advanced,Software Engineer,10,1.0,101900,High,None – Profile Complete,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1,0,1
+CAND0754,34,PhD,9.0,Advanced,BI Developer,11,1.0,82900,High,None – Profile Complete,0,1,0,0,1,1,1,1,0,1,0,0,1,0,0,1,1,0,1,1
+CAND0755,24,Bachelor,1.3,Intermediate,AI Researcher,9,0.8,147900,Medium,Python,0,0,1,1,0,1,0,0,1,0,1,1,0,1,1,0,0,0,0,1
+CAND0756,29,PhD,6.2,Advanced,Data Analyst,9,0.8,89100,High,Statistics,0,1,1,0,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1
+CAND0757,24,Associate,0.4,Beginner,Data Analyst,3,0.2,52900,Low,"SQL, Excel, Data_Viz",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+CAND0758,20,Bachelor,0.9,Beginner,Data Engineer,11,0.8,120800,Medium,Cloud_AWS,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,1,1
+CAND0759,37,Associate,13.0,Advanced,Business Analyst,10,1.0,83200,High,None – Profile Complete,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1
+CAND0760,21,Bachelor,1.2,Intermediate,AI Researcher,8,1.0,153900,Medium,None – Profile Complete,1,0,1,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0
+CAND0761,29,Master,4.4,Advanced,Software Engineer,10,0.6,100100,Medium,"Cloud_AWS, Python",0,0,0,0,1,0,1,0,1,0,1,1,0,0,1,0,1,1,1,1
+CAND0762,29,Bachelor,6.9,Advanced,Software Engineer,7,0.6,95000,Medium,"Docker, JavaScript",1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0
+CAND0763,26,Bachelor,2.8,Intermediate,Data Analyst,8,0.8,70600,Medium,Data_Viz,0,1,1,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1
+CAND0764,28,Bachelor,6.1,Advanced,AI Researcher,5,0.4,113700,Medium,"Deep_Learning, NLP, Python",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+CAND0765,30,Master,7.7,Advanced,Data Engineer,9,1.0,116900,High,None – Profile Complete,1,1,0,0,1,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0
+CAND0766,23,Bachelor,3.7,Advanced,Data Scientist,5,0.6,93100,Medium,"ML, SQL",1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+CAND0767,23,Bachelor,1.5,Intermediate,AI Researcher,4,0.4,112800,Low,"Deep_Learning, NLP, Python",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+CAND0768,28,Bachelor,2.6,Intermediate,Data Scientist,4,0.6,95200,Medium,"Python, Statistics",0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAND0769,29,Bachelor,3.4,Advanced,Software Engineer,6,0.4,103200,Medium,"Docker, Python, Java",0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+CAND0770,21,High School,1.8,Intermediate,Data Scientist,1,0.0,68100,Low,"ML, Python, SQL",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0771,30,Bachelor,5.5,Advanced,Software Engineer,8,1.0,120100,High,None – Profile Complete,1,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0
+CAND0772,26,Bachelor,1.4,Intermediate,ML Engineer,7,0.2,118700,Low,"Deep_Learning, TensorFlow, Docker",0,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,1
+CAND0773,25,Master,4.1,Advanced,BI Developer,9,0.6,84100,Medium,"Power_BI, Data_Viz",0,1,1,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,1,1
+CAND0774,26,Bachelor,3.4,Advanced,Data Scientist,4,0.4,87700,Low,"ML, SQL, Statistics",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+CAND0775,27,Bachelor,2.9,Intermediate,Data Analyst,6,1.0,65200,High,None – Profile Complete,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0776,30,Master,4.8,Advanced,AI Researcher,9,1.0,161100,High,None – Profile Complete,1,0,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0
+CAND0777,33,Master,11.0,Advanced,AI Researcher,8,0.8,149400,High,Python,0,1,1,1,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0
+CAND0778,24,Bachelor,2.3,Intermediate,Data Analyst,7,1.0,61300,High,None – Profile Complete,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+CAND0779,27,Bachelor,4.6,Advanced,Data Analyst,6,0.8,60300,Medium,SQL,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+CAND0780,29,Bachelor,7.5,Advanced,AI Researcher,8,0.8,150800,High,Python,0,0,1,1,0,1,0,0,1,0,1,0,0,1,1,1,0,0,0,0
+CAND0781,30,PhD,1.7,Intermediate,Software Engineer,6,0.8,87900,High,Docker,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0
+CAND0782,51,PhD,24.8,Advanced,Data Analyst,9,1.0,78500,High,None – Profile Complete,1,1,0,0,1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0
+CAND0783,25,Master,1.4,Intermediate,AI Researcher,5,0.8,131000,Medium,ML,1,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0
+CAND0784,30,Bachelor,8.6,Advanced,Data Engineer,7,1.0,109000,High,None – Profile Complete,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+CAND0785,28,Bachelor,6.5,Advanced,BI Developer,4,0.2,68200,Low,"SQL, Power_BI, Tableau",1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+CAND0786,30,PhD,5.7,Advanced,AI Researcher,8,0.8,145500,High,ML,1,0,0,1,1,0,0,1,1,0,0,1,0,1,1,0,0,0,0,0
+CAND0787,29,Master,7.0,Advanced,Data Engineer,8,1.0,109900,High,None – Profile Complete,1,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0
+CAND0788,26,Bachelor,1.7,Intermediate,Business Analyst,6,1.0,55700,High,None – Profile Complete,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+CAND0789,26,Bachelor,4.9,Advanced,Data Engineer,5,0.2,95700,Low,"Cloud_AWS, Docker, Python",0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0
+CAND0790,28,Bachelor,6.9,Advanced,Data Analyst,6,0.2,64700,Medium,"SQL, Excel, Data_Viz",0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,1
+CAND0791,33,Master,10.3,Advanced,ML Engineer,8,0.4,140700,Medium,"ML, TensorFlow, Python",0,0,0,1,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0
+CAND0792,24,Bachelor,1.1,Intermediate,Software Engineer,5,0.4,74400,Low,"Cloud_AWS, Python, Java",0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0
+CAND0793,25,Bachelor,2.3,Intermediate,ML Engineer,7,0.8,126900,Medium,ML,1,0,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1
+CAND0794,30,Master,7.0,Advanced,Data Analyst,5,0.8,61400,High,Statistics,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+CAND0795,31,PhD,6.2,Advanced,Data Engineer,7,1.0,128100,High,None – Profile Complete,1,1,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+CAND0796,27,Associate,1.9,Intermediate,Data Scientist,5,0.4,80500,Low,"ML, SQL, Data_Viz",1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0
+CAND0797,37,Bachelor,13.0,Advanced,Software Engineer,7,0.4,104000,Medium,"Cloud_AWS, Python, JavaScript",0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,0,1,0,0,0
+CAND0798,28,PhD,3.1,Advanced,Data Scientist,6,0.8,100100,High,Data_Viz,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+CAND0799,26,Master,2.4,Intermediate,Data Engineer,9,0.8,130800,Medium,Python,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,1
+CAND0800,31,Bachelor,8.4,Advanced,AI Researcher,6,0.6,129800,Medium,"NLP, Statistics",1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+CAND0801,29,Master,4.4,Advanced,ML Engineer,9,0.8,139100,High,TensorFlow,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,1
+CAND0802,31,Bachelor,7.9,Advanced,ML Engineer,10,0.4,125100,Medium,"Deep_Learning, Docker, Python",0,0,1,0,1,1,1,0,0,0,0,0,1,1,1,1,1,0,0,1
+CAND0803,31,Associate,7.7,Advanced,Software Engineer,6,0.8,97600,High,Cloud_AWS,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0
+CAND0804,25,Master,1.7,Intermediate,Data Scientist,7,0.6,98200,Medium,"ML, SQL",1,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+CAND0805,35,High School,13.0,Advanced,Software Engineer,3,0.6,76600,Medium,"Cloud_AWS, Python",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+CAND0806,26,PhD,3.0,Intermediate,Data Engineer,6,0.6,113700,Medium,"Python, SQL",0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,1,0
+CAND0807,24,Bachelor,0.8,Beginner,Business Analyst,5,0.6,57000,Low,"Excel, Power_BI",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1
+CAND0808,24,Bachelor,3.7,Advanced,AI Researcher,9,0.6,142700,Medium,"NLP, Statistics",1,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,1
+CAND0809,26,Bachelor,3.6,Advanced,Data Scientist,3,0.2,82100,Low,"ML, Python, Statistics",0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0810,28,Bachelor,3.0,Intermediate,Data Engineer,7,0.8,101800,Medium,SQL,1,0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1
+CAND0811,27,Master,5.4,Advanced,AI Researcher,12,0.8,163500,High,Statistics,1,0,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0,1
+CAND0812,24,Bachelor,2.3,Intermediate,BI Developer,6,0.6,75500,Medium,"Power_BI, Data_Viz",0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+CAND0813,23,Bachelor,1.0,Intermediate,Data Analyst,5,0.4,57800,Low,"Excel, Data_Viz, Power_BI",1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+CAND0814,23,Associate,0.7,Beginner,Software Engineer,6,0.8,83700,Medium,Docker,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0
+CAND0815,21,Bachelor,1.3,Intermediate,ML Engineer,8,0.8,132300,Medium,TensorFlow,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1
+CAND0816,23,Master,1.7,Intermediate,AI Researcher,4,0.6,124400,Medium,"Deep_Learning, Statistics",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+CAND0817,26,Bachelor,3.1,Advanced,ML Engineer,7,0.6,117600,Medium,"ML, TensorFlow",1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0
+CAND0818,41,Bachelor,18.1,Advanced,BI Developer,6,0.8,77200,High,Data_Viz,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+CAND0819,41,Bachelor,20.2,Advanced,BI Developer,5,0.8,72100,High,Tableau,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAND0820,29,Bachelor,7.8,Advanced,Data Scientist,8,0.6,101400,Medium,"ML, Statistics",1,1,0,0,1,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0
+CAND0821,20,Associate,1.2,Intermediate,BI Developer,4,0.2,78300,Low,"SQL, Power_BI, Tableau",0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0822,32,Master,10.6,Advanced,ML Engineer,12,0.6,136300,High,"Deep_Learning, Docker",1,1,1,0,0,1,1,0,0,0,1,0,1,1,1,0,1,1,0,1
+CAND0823,34,Associate,12.7,Advanced,Data Engineer,7,1.0,113100,High,None – Profile Complete,1,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0
+CAND0824,28,Bachelor,6.9,Advanced,Data Scientist,10,1.0,103800,High,None – Profile Complete,1,1,1,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,1
+CAND0825,22,Associate,0.7,Beginner,Software Engineer,6,0.8,81500,Medium,Cloud_AWS,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0
+CAND0826,30,Bachelor,8.5,Advanced,Data Engineer,8,1.0,114100,High,None – Profile Complete,1,1,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0
+CAND0827,35,Master,12.1,Advanced,Data Engineer,7,0.8,121600,High,Spark,1,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+CAND0828,24,Bachelor,2.8,Intermediate,ML Engineer,1,0.2,99900,Low,"Deep_Learning, ML, Docker",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAND0829,25,Master,1.9,Intermediate,BI Developer,3,0.6,56900,Medium,"Power_BI, Tableau",0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0830,27,Master,1.9,Intermediate,Data Engineer,4,0.2,89100,Low,"Spark, Docker, Python",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+CAND0831,25,Bachelor,2.9,Intermediate,Data Analyst,4,0.4,53800,Low,"SQL, Excel, Data_Viz",0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0
+CAND0832,25,PhD,2.2,Intermediate,Data Engineer,4,0.8,102800,High,Cloud_AWS,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+CAND0833,27,PhD,3.5,Advanced,Data Analyst,5,0.4,71700,Medium,"Excel, Statistics, Power_BI",0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+CAND0834,35,Bachelor,11.9,Advanced,Business Analyst,7,0.8,71700,High,Power_BI,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1
+CAND0835,25,Associate,2.0,Intermediate,Business Analyst,4,0.4,59600,Low,"Excel, Communication, SQL",0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1
+CAND0836,31,Master,7.9,Advanced,Business Analyst,10,1.0,93300,High,None – Profile Complete,0,1,0,1,0,1,1,0,1,1,0,0,1,0,0,1,0,0,1,1
+CAND0837,26,Bachelor,1.9,Intermediate,AI Researcher,5,0.8,121800,Medium,Deep_Learning,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+CAND0838,31,Bachelor,7.7,Advanced,Business Analyst,6,0.8,64500,High,SQL,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+CAND0839,27,Master,2.0,Intermediate,ML Engineer,11,0.6,140400,Medium,"Deep_Learning, Docker",1,0,1,0,0,1,1,0,1,1,0,0,1,1,1,0,0,1,0,1
+CAND0840,26,Master,2.3,Intermediate,Data Scientist,2,0.2,83100,Low,"ML, SQL, Statistics",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAND0841,25,Bachelor,2.2,Intermediate,Data Engineer,4,0.6,88300,Medium,"Spark, Cloud_AWS",1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0842,26,PhD,2.3,Intermediate,ML Engineer,7,0.8,144800,High,Docker,1,0,1,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0
+CAND0843,26,Master,4.4,Advanced,Software Engineer,9,1.0,111100,High,None – Profile Complete,1,0,1,0,1,0,0,1,0,1,0,1,0,1,0,0,1,1,0,0
+CAND0844,24,Master,2.9,Intermediate,Business Analyst,9,1.0,80400,High,None – Profile Complete,0,1,0,0,0,1,1,1,0,1,1,0,0,1,0,0,0,0,1,1
+CAND0845,20,High School,1.2,Intermediate,AI Researcher,4,0.4,112200,Low,"Deep_Learning, Python, Statistics",0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+CAND0846,25,Bachelor,2.5,Intermediate,BI Developer,8,0.8,70100,Medium,Excel,0,1,0,0,1,0,1,1,0,0,1,0,0,1,0,0,1,0,0,1
+CAND0847,25,Bachelor,2.5,Intermediate,Business Analyst,3,0.2,63000,Low,"Communication, Project_Management, SQL",0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+CAND0848,26,Bachelor,3.1,Advanced,Business Analyst,8,0.6,83200,Medium,"Excel, Power_BI",1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+CAND0849,38,Master,12.5,Advanced,AI Researcher,10,0.8,152600,High,NLP,1,1,1,1,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,0
+CAND0850,24,Bachelor,1.0,Intermediate,Data Engineer,6,0.4,91300,Low,"Spark, Docker, SQL",1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0
+CAND0851,31,Bachelor,6.3,Advanced,Data Engineer,5,1.0,101100,High,None – Profile Complete,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+CAND0852,23,Bachelor,1.7,Intermediate,Data Scientist,5,0.6,86000,Medium,"Python, Data_Viz",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+CAND0853,24,Bachelor,1.8,Intermediate,BI Developer,6,0.4,60300,Low,"Power_BI, Tableau, Excel",1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0
+CAND0854,28,Bachelor,5.7,Advanced,Data Scientist,5,0.4,99000,Medium,"Python, SQL, Data_Viz",0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1
+CAND0855,24,Associate,1.3,Intermediate,BI Developer,3,0.6,51800,Low,"SQL, Tableau",0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0856,29,Master,4.9,Advanced,Data Scientist,8,0.6,97100,Medium,"ML, Python",0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,1,0,1
+CAND0857,31,PhD,5.0,Advanced,BI Developer,8,1.0,77500,High,None – Profile Complete,1,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+CAND0858,27,Master,4.8,Advanced,ML Engineer,8,0.6,121700,Medium,"Deep_Learning, ML",1,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0
+CAND0859,27,Master,2.9,Intermediate,ML Engineer,10,0.6,138500,Medium,"ML, TensorFlow",1,0,0,1,0,0,0,0,0,1,1,1,1,0,1,1,0,0,1,1
+CAND0860,26,Bachelor,5.7,Advanced,Data Analyst,6,0.6,70800,Medium,"Excel, Power_BI",0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0
+CAND0861,24,Bachelor,1.8,Intermediate,Business Analyst,6,0.6,67400,Medium,"Communication, Project_Management",0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0
+CAND0862,27,Master,3.5,Advanced,Data Analyst,4,0.6,61800,Medium,"SQL, Statistics",1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0863,23,Bachelor,1.0,Intermediate,AI Researcher,6,0.4,115100,Low,"Deep_Learning, ML, Statistics",1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0
+CAND0864,24,Bachelor,4.5,Advanced,Business Analyst,6,0.2,73600,Low,"Excel, Project_Management, SQL",0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+CAND0865,39,Master,15.2,Advanced,AI Researcher,6,0.8,130100,High,Deep_Learning,1,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+CAND0866,30,Bachelor,5.2,Advanced,Data Scientist,8,1.0,107600,High,None – Profile Complete,1,1,1,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+CAND0867,27,Bachelor,3.8,Advanced,BI Developer,6,0.6,62700,Medium,"Tableau, Data_Viz",0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0
+CAND0868,23,Bachelor,1.2,Intermediate,Business Analyst,4,0.4,63500,Low,"Project_Management, SQL, Power_BI",1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+CAND0869,22,Bachelor,2.1,Intermediate,ML Engineer,9,0.8,135700,Medium,TensorFlow,1,1,1,1,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+CAND0870,25,Master,1.3,Intermediate,AI Researcher,6,0.4,113000,Low,"Deep_Learning, ML, NLP",1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0
+CAND0871,29,PhD,1.6,Intermediate,Data Analyst,11,0.6,95900,Medium,"Data_Viz, Statistics",1,1,0,1,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0,0
+CAND0872,29,PhD,4.5,Advanced,Software Engineer,8,0.4,108600,Medium,"Docker, Python, Java",0,0,1,0,1,0,0,1,0,1,1,0,1,0,1,0,0,1,0,0
+CAND0873,25,Bachelor,3.0,Intermediate,Business Analyst,7,0.4,75800,Low,"Excel, SQL, Power_BI",0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,1,1
+CAND0874,23,Master,1.5,Intermediate,Data Scientist,5,0.8,94400,Medium,Data_Viz,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+CAND0875,21,High School,0.2,Beginner,Data Scientist,4,0.6,76300,Low,"Python, SQL",0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+CAND0876,25,Bachelor,1.0,Intermediate,Data Analyst,4,0.6,62600,Low,"Excel, Power_BI",0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAND0877,24,Bachelor,2.4,Intermediate,BI Developer,2,0.4,55900,Low,"Power_BI, Tableau, Data_Viz",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0878,38,Master,14.8,Advanced,ML Engineer,12,1.0,163900,High,None – Profile Complete,1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,0,1,0,0,0
+CAND0879,26,Bachelor,4.8,Advanced,Data Scientist,6,0.6,99300,Medium,"ML, Data_Viz",1,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0
+CAND0880,35,Bachelor,11.1,Advanced,Data Scientist,7,1.0,94900,High,None – Profile Complete,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+CAND0881,27,PhD,5.4,Advanced,Business Analyst,6,0.6,66100,High,"SQL, Power_BI",0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,1,1
+CAND0882,26,Bachelor,3.7,Advanced,ML Engineer,6,0.8,125900,Medium,Deep_Learning,1,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+CAND0883,26,Master,1.5,Intermediate,Data Engineer,7,1.0,105500,High,None – Profile Complete,1,1,0,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0
+CAND0884,31,Master,7.0,Advanced,Business Analyst,8,0.6,79600,High,"Project_Management, Power_BI",1,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,1,0
+CAND0885,32,Master,10.4,Advanced,Business Analyst,8,0.8,77900,High,Communication,0,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+CAND0886,31,PhD,7.3,Advanced,ML Engineer,9,0.8,149400,High,Python,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0,1,1,0
+CAND0887,27,Bachelor,6.4,Advanced,Software Engineer,7,0.8,87200,High,Python,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,1
+CAND0888,26,Bachelor,3.3,Advanced,Data Engineer,8,0.6,106400,Medium,"Docker, Python",0,1,0,1,0,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+CAND0889,32,Bachelor,6.7,Advanced,AI Researcher,6,0.4,108800,Medium,"Deep_Learning, ML, Python",0,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+CAND0890,25,Master,1.6,Intermediate,BI Developer,7,0.8,76100,Medium,Tableau,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0
+CAND0891,29,Bachelor,7.9,Advanced,Data Scientist,5,0.6,91100,Medium,"Python, SQL",0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+CAND0892,28,Bachelor,5.6,Advanced,ML Engineer,6,0.6,123900,Medium,"Deep_Learning, Python",0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+CAND0893,23,Master,1.5,Intermediate,ML Engineer,6,0.4,104200,Medium,"Deep_Learning, ML, TensorFlow",1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1
+CAND0894,29,PhD,3.5,Advanced,BI Developer,7,0.6,89100,High,"SQL, Data_Viz",0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0
+CAND0895,27,Master,2.0,Intermediate,ML Engineer,8,1.0,145300,High,None – Profile Complete,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0
+CAND0896,26,Bachelor,6.2,Advanced,Software Engineer,6,0.8,93400,Medium,Docker,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+CAND0897,24,Bachelor,2.6,Intermediate,Data Scientist,7,1.0,100300,High,None – Profile Complete,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+CAND0898,27,Bachelor,4.4,Advanced,Software Engineer,5,0.6,89500,Medium,"Docker, JavaScript",1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0
+CAND0899,26,Master,3.3,Advanced,Data Scientist,5,0.4,90500,Medium,"Python, Statistics, Data_Viz",0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+CAND0900,24,High School,1.8,Intermediate,AI Researcher,5,0.6,114900,Low,"NLP, Python",0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+CAND0901,34,Bachelor,10.4,Advanced,ML Engineer,6,0.6,146800,High,"Docker, Python",0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+CAND0902,26,Bachelor,3.4,Advanced,BI Developer,8,0.8,83900,Medium,Excel,1,1,0,1,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+CAND0903,25,Master,1.5,Intermediate,Data Scientist,5,0.4,98100,Low,"Python, SQL, Data_Viz",0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0
+CAND0904,31,Bachelor,9.2,Advanced,BI Developer,5,0.6,64000,High,"Power_BI, Tableau",1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAND0905,24,Bachelor,1.0,Intermediate,Business Analyst,5,0.6,63500,Medium,"Excel, Power_BI",0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+CAND0906,23,Master,2.7,Intermediate,Data Scientist,8,0.8,99500,Medium,Statistics,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+CAND0907,27,Bachelor,6.9,Advanced,Data Analyst,8,0.6,93100,Medium,"SQL, Power_BI",1,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+CAND0908,26,PhD,3.3,Advanced,Software Engineer,5,0.6,98800,Medium,"Docker, JavaScript",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+CAND0909,35,Bachelor,9.7,Advanced,Business Analyst,5,0.6,66200,High,"Excel, SQL",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+CAND0910,23,Bachelor,1.6,Intermediate,Data Scientist,7,1.0,100700,High,None – Profile Complete,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0
+CAND0911,26,Bachelor,4.5,Advanced,AI Researcher,10,0.6,134800,Medium,"NLP, Python",0,1,1,1,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1,1
+CAND0912,27,Bachelor,3.9,Advanced,Software Engineer,7,0.8,88500,Medium,Python,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,1,0,0
+CAND0913,35,Master,10.2,Advanced,Software Engineer,10,1.0,109400,High,None – Profile Complete,1,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,1,1,0,1
+CAND0914,37,Bachelor,13.6,Advanced,Data Engineer,11,0.8,129100,High,Cloud_AWS,1,1,0,1,0,1,0,0,1,0,1,1,1,0,1,0,0,1,0,1
+CAND0915,25,Bachelor,2.1,Intermediate,Data Analyst,11,1.0,81800,High,None – Profile Complete,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,0,1,1,0,0
+CAND0916,21,Bachelor,2.3,Intermediate,Data Analyst,7,0.8,69000,Medium,Power_BI,0,1,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+CAND0917,39,PhD,13.2,Advanced,Data Engineer,9,1.0,130000,High,None – Profile Complete,1,1,0,0,0,1,0,0,1,1,0,1,1,1,0,0,1,0,0,0
+CAND0918,23,High School,1.2,Intermediate,Data Engineer,4,0.4,90000,Low,"Spark, Docker, SQL",1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+CAND0919,47,Master,22.7,Advanced,Business Analyst,10,1.0,80900,High,None – Profile Complete,0,1,0,1,1,1,1,1,0,0,0,1,0,0,0,0,1,0,1,1
+CAND0920,40,Bachelor,16.0,Advanced,Software Engineer,9,1.0,110400,High,None – Profile Complete,1,0,0,0,0,1,0,1,1,1,0,1,0,1,0,0,1,1,0,0
+CAND0921,29,Master,2.2,Intermediate,ML Engineer,4,0.8,130800,Medium,TensorFlow,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAND0922,27,Master,3.1,Advanced,ML Engineer,9,0.8,139000,High,TensorFlow,1,0,1,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,1
+CAND0923,27,Bachelor,2.5,Intermediate,AI Researcher,8,0.8,133700,Medium,ML,1,0,0,1,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,0
+CAND0924,25,Bachelor,2.5,Intermediate,BI Developer,4,0.6,58600,Medium,"Power_BI, Tableau",1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0925,26,Bachelor,3.6,Advanced,Data Engineer,7,0.8,109700,Medium,Cloud_AWS,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0
+CAND0926,31,Bachelor,8.8,Advanced,Business Analyst,6,0.8,74000,High,SQL,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,1,1
+CAND0927,27,Master,4.7,Advanced,AI Researcher,9,1.0,150800,High,None – Profile Complete,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+CAND0928,30,Bachelor,8.9,Advanced,ML Engineer,6,0.8,125600,High,ML,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+CAND0929,29,PhD,3.9,Advanced,ML Engineer,10,0.8,152400,High,Docker,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,1
+CAND0930,26,Master,1.4,Intermediate,BI Developer,5,0.6,72800,Medium,"Power_BI, Data_Viz",0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAND0931,22,Bachelor,2.3,Intermediate,BI Developer,5,0.6,56200,Medium,"SQL, Tableau",0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+CAND0932,27,PhD,3.7,Advanced,BI Developer,8,0.6,89600,Medium,"Tableau, Excel",0,1,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,0,0
+CAND0933,29,PhD,2.7,Intermediate,AI Researcher,4,0.0,110200,Low,"Deep_Learning, ML, NLP",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+CAND0934,25,Master,1.5,Intermediate,BI Developer,10,1.0,82700,High,None – Profile Complete,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+CAND0935,28,Bachelor,8.2,Advanced,AI Researcher,8,0.6,134300,High,"ML, Python",0,0,0,1,0,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0
+CAND0936,22,Bachelor,1.3,Intermediate,AI Researcher,3,0.4,108100,Low,"Deep_Learning, ML, Statistics",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+CAND0937,24,Bachelor,2.9,Intermediate,ML Engineer,6,0.2,110200,Low,"Deep_Learning, TensorFlow, Docker",0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1
+CAND0938,36,PhD,14.0,Advanced,Data Analyst,13,1.0,109500,High,None – Profile Complete,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,0,0
+CAND0939,23,Associate,1.9,Intermediate,Software Engineer,3,0.4,79700,Low,"Docker, Python, JavaScript",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+CAND0940,27,Master,3.0,Intermediate,Business Analyst,9,1.0,73800,High,None – Profile Complete,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1
+CAND0941,27,Associate,5.2,Advanced,AI Researcher,5,0.6,111500,Medium,"ML, NLP",1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0942,25,Master,2.7,Intermediate,Data Scientist,5,0.4,85300,Medium,"ML, Python, Statistics",0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+CAND0943,30,Bachelor,6.0,Advanced,AI Researcher,5,0.8,126300,High,Deep_Learning,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+CAND0944,29,Bachelor,6.4,Advanced,ML Engineer,11,0.8,153200,High,Docker,1,1,1,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,1
+CAND0945,26,Bachelor,2.4,Intermediate,BI Developer,5,0.6,63600,Medium,"Power_BI, Tableau",0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+CAND0946,25,Bachelor,1.0,Intermediate,AI Researcher,7,0.6,131800,Low,"ML, Python",0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0
+CAND0947,21,Bachelor,1.6,Intermediate,Data Scientist,9,0.8,95300,Medium,Data_Viz,1,1,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+CAND0948,31,Bachelor,11.3,Advanced,Software Engineer,8,0.8,110500,High,Cloud_AWS,1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0
+CAND0949,29,Associate,6.4,Advanced,Software Engineer,7,0.6,88400,Medium,"Cloud_AWS, Java",1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+CAND0950,27,Master,4.6,Advanced,Data Engineer,9,0.8,113700,High,Python,0,1,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0
+CAND0951,22,Bachelor,0.9,Beginner,AI Researcher,5,0.8,132900,Medium,Statistics,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+CAND0952,23,Bachelor,1.4,Intermediate,BI Developer,5,0.6,64600,Medium,"Excel, Data_Viz",0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+CAND0953,20,Bachelor,1.2,Intermediate,Software Engineer,8,1.0,90000,Medium,None – Profile Complete,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,1
+CAND0954,31,Master,8.2,Advanced,Data Scientist,8,0.8,110800,High,Data_Viz,1,1,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0
+CAND0955,21,Associate,0.6,Beginner,AI Researcher,6,0.2,98200,Low,"Deep_Learning, ML, NLP",0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1
+CAND0956,28,PhD,5.4,Advanced,Software Engineer,9,0.6,111200,High,"Python, Java",0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,1,1,1
+CAND0957,28,Associate,5.7,Advanced,Software Engineer,4,0.6,77000,Medium,"Cloud_AWS, JavaScript",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+CAND0958,25,PhD,1.7,Intermediate,ML Engineer,6,0.6,133600,Medium,"ML, Docker",1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+CAND0959,40,Master,15.9,Advanced,ML Engineer,11,0.8,143200,High,ML,1,1,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,1,1
+CAND0960,41,Master,17.4,Advanced,Data Scientist,13,1.0,133800,High,None – Profile Complete,1,1,1,1,1,1,0,0,1,0,0,1,0,0,1,1,1,0,1,1
+CAND0961,23,High School,1.8,Intermediate,ML Engineer,7,0.8,119800,Medium,TensorFlow,1,1,1,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+CAND0962,26,Bachelor,3.3,Advanced,BI Developer,7,0.6,70900,Medium,"SQL, Power_BI",0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,1,0,0,0,1
+CAND0963,26,Bachelor,3.8,Advanced,Data Analyst,10,0.8,67300,High,Data_Viz,0,1,0,0,0,1,1,1,1,0,0,1,0,0,1,1,1,1,0,0
+CAND0964,28,Master,6.2,Advanced,Data Scientist,8,0.8,109500,High,SQL,1,0,1,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0
+CAND0965,26,Associate,4.7,Advanced,Data Scientist,7,0.8,91400,Medium,Python,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0
+CAND0966,23,Associate,4.8,Advanced,Data Analyst,7,0.6,68500,Medium,"Data_Viz, Statistics",0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+CAND0967,30,Bachelor,8.1,Advanced,BI Developer,5,0.4,60600,Medium,"Tableau, Excel, Data_Viz",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0
+CAND0968,32,Associate,10.1,Advanced,AI Researcher,5,1.0,135700,High,None – Profile Complete,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAND0969,25,High School,7.4,Advanced,Software Engineer,7,0.8,93000,Medium,Docker,1,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0
+CAND0970,28,Master,4.7,Advanced,ML Engineer,5,0.6,132100,Medium,"ML, TensorFlow",1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+CAND0971,25,Bachelor,1.0,Intermediate,Data Analyst,6,0.8,52900,Medium,SQL,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1
+CAND0972,25,Bachelor,2.5,Intermediate,Data Scientist,8,0.8,87800,Medium,ML,1,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1
+CAND0973,28,High School,5.3,Advanced,AI Researcher,3,0.2,111900,Low,"Deep_Learning, ML, Python",0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+CAND0974,27,Bachelor,2.5,Intermediate,BI Developer,4,0.6,64700,Medium,"Power_BI, Excel",0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+CAND0975,31,PhD,5.6,Advanced,AI Researcher,8,0.8,153900,High,Python,0,0,1,1,0,0,1,0,1,0,0,0,0,1,1,1,1,0,0,0
+CAND0976,33,Master,8.4,Advanced,ML Engineer,10,0.8,136700,High,ML,1,1,0,1,1,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0
+CAND0977,24,Master,2.7,Intermediate,Business Analyst,7,0.8,69500,Medium,Communication,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1
+CAND0978,27,Bachelor,3.5,Advanced,Data Scientist,4,0.8,90200,Medium,Statistics,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAND0979,34,Bachelor,10.5,Advanced,Software Engineer,4,0.4,92700,Medium,"Cloud_AWS, Docker, Java",1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+CAND0980,28,Master,4.8,Advanced,Business Analyst,7,0.6,72500,Medium,"Communication, SQL",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+CAND0981,24,Bachelor,2.9,Intermediate,Business Analyst,7,0.8,59200,Medium,Project_Management,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0
+CAND0982,28,PhD,2.8,Intermediate,Data Engineer,5,0.6,106600,Medium,"Cloud_AWS, Python",0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+CAND0983,38,Bachelor,14.6,Advanced,Software Engineer,6,0.6,100100,High,"Python, JavaScript",0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0
+CAND0984,26,Bachelor,2.2,Intermediate,AI Researcher,6,0.8,135000,Medium,Statistics,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CAND0985,26,Master,1.8,Intermediate,ML Engineer,8,0.8,138900,Medium,ML,1,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0
+CAND0986,29,Master,4.3,Advanced,Data Scientist,8,1.0,106200,High,None – Profile Complete,1,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0
+CAND0987,26,Master,2.4,Intermediate,Data Engineer,4,0.4,99100,Medium,"Cloud_AWS, Docker, SQL",1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
+CAND0988,45,Master,20.3,Advanced,Data Scientist,9,1.0,108000,High,None – Profile Complete,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+CAND0989,41,Master,16.8,Advanced,ML Engineer,11,1.0,148300,High,None – Profile Complete,1,1,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0,1,1,0
+CAND0990,28,PhD,3.5,Advanced,Data Analyst,8,1.0,76400,High,None – Profile Complete,0,1,1,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0
+CAND0991,25,Bachelor,2.3,Intermediate,AI Researcher,6,0.8,120800,Medium,Deep_Learning,1,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAND0992,33,Bachelor,10.5,Advanced,Software Engineer,10,0.8,109300,High,Python,0,1,1,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,0,0
+CAND0993,28,Bachelor,5.9,Advanced,Data Analyst,8,0.8,72900,Medium,Data_Viz,0,1,0,1,0,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0
+CAND0994,26,Master,2.3,Intermediate,Data Analyst,4,0.6,55900,Medium,"SQL, Data_Viz",0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+CAND0995,26,Master,1.7,Intermediate,Software Engineer,6,0.6,84100,Medium,"Cloud_AWS, JavaScript",1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1
+CAND0996,34,PhD,11.5,Advanced,AI Researcher,7,0.6,134500,High,"Deep_Learning, NLP",1,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+CAND0997,38,Bachelor,16.0,Advanced,AI Researcher,9,1.0,154700,High,None – Profile Complete,1,0,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0
+CAND0998,23,Bachelor,1.2,Intermediate,ML Engineer,4,0.2,110900,Low,"Deep_Learning, TensorFlow, Docker",0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+CAND0999,40,Bachelor,17.9,Advanced,BI Developer,9,0.8,84000,High,Excel,1,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,1,0
+CAND1000,27,PhD,4.3,Advanced,ML Engineer,6,0.6,137500,High,"TensorFlow, Docker",1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
