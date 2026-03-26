@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, r2_score
 
 # -----------------------
 # LOAD DATA
@@ -100,12 +103,51 @@ elif page == "Diagnostic Analytics":
 elif page == "Predictive Analytics":
     st.title("🤖 Predictive Analytics")
 
+    # Prepare data
+    X = df[[exp_col, skills_col]]
+    y_class = emp_numeric
+    y_reg = df[salary_col]
+
+    # Train-test split
+    X_train, X_test, y_train_c, y_test_c = train_test_split(X, y_class, test_size=0.2, random_state=42)
+    _, _, y_train_r, y_test_r = train_test_split(X, y_reg, test_size=0.2, random_state=42)
+
+    # Classification
+    st.subheader("Employability Prediction (Classification)")
+
+    clf = RandomForestClassifier()
+    clf.fit(X_train, y_train_c)
+
+    y_pred = clf.predict(X_test)
+
+    st.write("Accuracy:", round(accuracy_score(y_test_c, y_pred),2))
+    st.write("Precision:", round(precision_score(y_test_c, y_pred, zero_division=0),2))
+    st.write("Recall:", round(recall_score(y_test_c, y_pred, zero_division=0),2))
+    st.write("F1 Score:", round(f1_score(y_test_c, y_pred, zero_division=0),2))
+
+    # Regression
+    st.subheader("Salary Prediction (Regression)")
+
+    reg = RandomForestRegressor()
+    reg.fit(X_train, y_train_r)
+
+    y_pred_r = reg.predict(X_test)
+
+    st.write("R² Score:", round(r2_score(y_test_r, y_pred_r),2))
+
+    # User input
+    st.subheader("Try Prediction")
+
     exp = st.slider("Experience", 0, 10, 2)
     skills = st.slider("Skills Count", 1, 10, 5)
 
-    predicted_salary = int(df[salary_col].mean() + (exp * 2000) + (skills * 1500))
+    input_data = np.array([[exp, skills]])
 
-    st.success(f"Predicted Salary: ₹{predicted_salary}")
+    pred_emp = clf.predict(input_data)[0]
+    pred_sal = reg.predict(input_data)[0]
+
+    st.success(f"Predicted Employability: {'Yes' if pred_emp==1 else 'No'}")
+    st.success(f"Predicted Salary: ₹{int(pred_sal)}")
 
 
 # -----------------------
