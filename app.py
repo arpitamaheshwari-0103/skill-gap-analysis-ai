@@ -9,6 +9,16 @@ import plotly.express as px
 df = pd.read_csv("SkillSync_AI_Candidates.csv")
 
 # -----------------------
+# AUTO DETECT COLUMNS
+# -----------------------
+columns = df.columns
+
+salary_col = [col for col in columns if "salary" in col.lower()][0]
+skills_col = [col for col in columns if "skill" in col.lower()][0]
+exp_col = [col for col in columns if "exp" in col.lower()][0]
+emp_col = [col for col in columns if "employ" in col.lower()][0]
+
+# -----------------------
 # SIDEBAR
 # -----------------------
 st.sidebar.title("SkillSync AI")
@@ -31,9 +41,9 @@ if page == "Overview":
 
     col1, col2, col3 = st.columns(3)
 
-    col1.metric("Avg Salary", int(df["Salary"].mean()))
-    col2.metric("Avg Skills", round(df["Skills_Count"].mean(), 1))
-    col3.metric("Employability %", round(df["Employable"].mean()*100, 1))
+    col1.metric("Avg Salary", int(df[salary_col].mean()))
+    col2.metric("Avg Skills", round(df[skills_col].mean(), 1))
+    col3.metric("Employability %", round(df[emp_col].mean()*100, 1))
 
 
 # -----------------------
@@ -43,15 +53,15 @@ elif page == "Descriptive Analytics":
     st.title("📊 Descriptive Analytics")
 
     st.subheader("Salary Distribution")
-    fig = px.histogram(df, x="Salary", nbins=20)
+    fig = px.histogram(df, x=salary_col, nbins=20)
     st.plotly_chart(fig)
 
     st.subheader("Skills Distribution")
-    fig2 = px.histogram(df, x="Skills_Count")
+    fig2 = px.histogram(df, x=skills_col)
     st.plotly_chart(fig2)
 
     st.subheader("Employability Count")
-    fig3 = px.bar(df["Employable"].value_counts())
+    fig3 = px.bar(df[emp_col].value_counts())
     st.plotly_chart(fig3)
 
 
@@ -62,11 +72,11 @@ elif page == "Diagnostic Analytics":
     st.title("🔍 Diagnostic Analytics")
 
     st.subheader("Salary vs Experience")
-    fig = px.scatter(df, x="Experience", y="Salary")
+    fig = px.scatter(df, x=exp_col, y=salary_col)
     st.plotly_chart(fig)
 
     st.subheader("Skills vs Salary")
-    fig2 = px.scatter(df, x="Skills_Count", y="Salary")
+    fig2 = px.scatter(df, x=skills_col, y=salary_col)
     st.plotly_chart(fig2)
 
     st.info("Insight: Higher skills and experience → higher salary.")
@@ -83,8 +93,7 @@ elif page == "Predictive Analytics":
     exp = st.slider("Experience", 0, 10, 2)
     skills = st.slider("Skills Count", 1, 10, 5)
 
-    # simple model logic (safe)
-    predicted_salary = 30000 + (exp * 5000) + (skills * 4000)
+    predicted_salary = int(df[salary_col].mean() + (exp * 2000) + (skills * 1500))
 
     st.success(f"Predicted Salary: ₹{predicted_salary}")
 
@@ -110,10 +119,10 @@ elif page == "Prescriptive Analytics":
 
     add_skill = st.checkbox("Add 1 Skill")
 
-    base_salary = 40000 + skills * 5000
+    base_salary = int(df[salary_col].mean() + skills * 2000)
 
     if add_skill:
-        new_salary = base_salary + 5000
+        new_salary = base_salary + 3000
         st.write(f"New Salary: ₹{new_salary}")
     else:
         st.write(f"Current Salary: ₹{base_salary}")
