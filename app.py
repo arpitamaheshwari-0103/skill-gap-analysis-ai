@@ -101,70 +101,10 @@ elif page == "Diagnostic Analytics":
 # PREDICTIVE
 # -----------------------
 elif page == "Predictive Analytics":
-    st.title("🤖 Predictive Analytics")
-
-    # Prepare data
-  # Prepare data safely
-X = df[[exp_col, skills_col]].copy()
-y_class = emp_numeric.copy()
-y_reg = df[salary_col].copy()
-
-# Convert to numeric
-X[exp_col] = pd.to_numeric(X[exp_col], errors='coerce')
-X[skills_col] = pd.to_numeric(X[skills_col], errors='coerce')
-y_reg = pd.to_numeric(y_reg, errors='coerce')
-
-# Combine into one dataframe for cleaning
-ml_df = pd.concat([X, y_class, y_reg], axis=1)
-
-# Drop missing values
-ml_df = ml_df.dropna()
-
-# Re-split clean data
-X = ml_df[[exp_col, skills_col]]
-y_class = ml_df[emp_col]
-y_reg = ml_df[salary_col]
-
-    # Train-test split
-    X_train, X_test, y_train_c, y_test_c = train_test_split(X, y_class, test_size=0.2, random_state=42)
-    _, _, y_train_r, y_test_r = train_test_split(X, y_reg, test_size=0.2, random_state=42)
-
-    # Classification
-    st.subheader("Employability Prediction (Classification)")
-
-    clf = RandomForestClassifier()
-    clf.fit(X_train, y_train_c)
-
-    y_pred = clf.predict(X_test)
-
-    st.write("Accuracy:", round(accuracy_score(y_test_c, y_pred),2))
-    st.write("Precision:", round(precision_score(y_test_c, y_pred, zero_division=0),2))
-    st.write("Recall:", round(recall_score(y_test_c, y_pred, zero_division=0),2))
-    st.write("F1 Score:", round(f1_score(y_test_c, y_pred, zero_division=0),2))
-
-    # Regression
-    st.subheader("Salary Prediction (Regression)")
-
-    reg = RandomForestRegressor()
-    reg.fit(X_train, y_train_r)
-
-    y_pred_r = reg.predict(X_test)
-
-    st.write("R² Score:", round(r2_score(y_test_r, y_pred_r),2))
-
-    # User input
-    st.subheader("Try Prediction")
-
-    exp = st.slider("Experience", 0, 10, 2)
-    skills = st.slider("Skills Count", 1, 10, 5)
-
-    input_data = np.array([[exp, skills]])
-
-    pred_emp = clf.predict(input_data)[0]
-    pred_sal = reg.predict(input_data)[0]
-
-    st.success(f"Predicted Employability: {'Yes' if pred_emp==1 else 'No'}")
-    st.success(f"Predicted Salary: ₹{int(pred_sal)}")
+File "/mount/src/starter/app.py", line 129
+      X_train, X_test, y_train_c, y_test_c = train_test_split(X, y_class, test_size=0.2, random_state=42)
+     ^
+IndentationError: unexpected indent
 
 
 # -----------------------
